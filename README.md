@@ -12,5 +12,5 @@ Para descargar el archivo se debe seleccionar la opción que se señala a contin
 
 
 
-para la segunda hoja del libro, descargar el siguiente archivo: 
+para la segunda hoja del libro, descargar el siguiente archivo: https://github.com/dialvas/introduccion_excel_colmex/blob/main/pago_de_multas.csv
 Este archivo está modificado con fines didacticos de este curso ( Realmente no sabemos si la infracción fue pagada o no ) 
