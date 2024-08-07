@@ -1,0 +1,749 @@
+﻿id_infraccion,fecha_infraccion,ao_infraccion,mes,categoria,articulo,fraccion,inciso,parrafo,placa,color,marca_general,marca,submarca,en_la_calle,entre_calle,y_calle,colonia,alcaldia,codigo_postal,longitud,latitud
+id-4225919109,45046,2023,NA,Violar normas básicas de educación vial,8,I,-----,SEGUNDO,A5156K,BLANCO/ROJO,NISSAN,NISSAN,TSURU,Avenida Ernesto P. Uruchurtu,te ,canal de churubusco,EL RODEO,Iztacalco,,NA,NA
+id-4225914333,45046,2023,NA,Violar normas básicas de educación vial,8,I,-----,SEGUNDO,K94BDN,BLANCO,MITSUBISHI,MITSUBISHI,LANCER,calzada Vallejo ,Antonio valeriano ,seris ,LA RAZA,Azcapotzalco,,NA,NA
+id-4225919178,45046,2023,NA,No respetar preferencias de paso,10,VI,A,PRIMERO,A1693B,BLANCO,HONDA,HONDA,DESCONOCIDO,José María Izazaga,20 de noviembre ,pino Suárez ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225919062,45046,2023,NA,No respetar preferencias de paso,10,VI,A,PRIMERO,N62ASK,BLANCO,NISSAN,NISSAN,VERSA,José María Izazaga,20 de noviembre ,pino Suárez ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225921270,45046,2023,NA,No respetar preferencias de paso,10,IV,-----,PRIMERO,6L5WE,NEGRO,OTRA,BAJAJ,TRABAJO,Isabela Católica ,viaducto,bolivar,ALAMOS,Benito Juárez,,NA,NA
+id-4225917624,45046,2023,NA,No respetar preferencias de paso,10,VI,A,PRIMERO,K74ARW,BLANCO,FORD,FORD MOTOR COMPANY,FIESTA IKON 5 PUERTAS IMPORTADO,Eje 3 Oriente,Victoria ,oriente 115,GERTRUDIS SÁNCHEZ 2A SECCIÓN,Gustavo A. Madero,,NA,NA
+id-4225920877,45046,2023,NA,No respetar preferencias de paso,10,VI,A,PRIMERO,676XZA,NEGRO,NISSAN,NISSAN,MARCH,Viaducto Río Becerra,minería ,11 de abril ,ESCANDÓN I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920105,45046,2023,NA,Infringir normas generales de circulación,11,VIII,-----,SEGUNDO,PBE4910,GUINDA,NISSAN,NISSAN,TSURU,Luis garcia,zarragoza,república federal,AMP SANTA MARTHA ACATITLA,Iztapalapa,,NA,NA
+id-4225921591,45046,2023,NA,Infringir normas generales de circulación,11,VIII,-----,SEGUNDO,LRU184A,GRIS,CHRYSLER,FIAT,UNO FIRE,av. paseo de la reforma,Arquímedes ,ghandi,CHAPULTEPEC  POLANCO,Miguel Hidalgo,,NA,NA
+id-4225914050,45046,2023,NA,Infringir normas generales de circulación,11,III,A,TERCERO,760RR6,BLANCO,NA,DESCONOCIDO,DESCONOCIDO,Calzada de Tlalpan,circuito ,20 de agosto ,SAN DIEGO CHURUBUSCO,Coyoacán,,NA,NA
+id-4225913947,45046,2023,NA,Infringir normas generales de circulación,11,III,A,TERCERO,PBY5602,BLANCO,VOLKSWAGEN,VOLKSWAGEN,SED N,Calzada de Tlalpan,circuito ,20 de agosto ,SAN DIEGO CHURUBUSCO,Coyoacán,,NA,NA
+id-4225913855,45046,2023,NA,Infringir normas generales de circulación,11,X,A,QUINTO,A12BKL,ANARANJADO,OTRA,RENAULT,KWID 4 PUERTAS,PASEO DE LA REFORMA ,GRANADA ,CANAL DEL NORTE ,PERALVILLO,Cuauhtémoc,,NA,NA
+id-4225913701,45046,2023,NA,Infringir normas generales de circulación,11,I,-----,PRIMERO,8G6RZ,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,Avenida Cuauhtémoc,angel urraza ,San borja,NARVARTE PONIENTE,Benito Juárez,,NA,NA
+id-4225913770,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,NUC8412,BLANCO,VOLKSWAGEN,VOLKSWAGEN,BORA 4 PUERTAS,Javier rojo Gómez ,eje 4 ,Javier rojo Gómez ,CUCHILLA DEL MORAL,Iztapalapa,,NA,NA
+id-4225913817,45046,2023,NA,Infringir normas generales de circulación,11,X,A,QUINTO,W97AZS,GRIS,NA,DESCONOCIDO,DESCONOCIDO,PASEO DE LA REFORMA ,GRANADA ,CANAL DEL NORTE ,PERALVILLO,Cuauhtémoc,,NA,NA
+id-4225920839,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,C78AMG,GRIS,VOLKSWAGEN,VOLKSWAGEN,GOL 4 PUERTAS,casa del obrero mundial ,providencia ,Adolfo Prieto ,COL DEL VALLE CENTRO,Benito Juárez,,NA,NA
+id-4225919055,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,PEU6739,ROJO METALICO,MAZDA,MAZDA,CX-5,Cuahutemoc ,ángel urraza ,universidad ,NARVARTE PONIENTE,Benito Juárez,,NA,NA
+id-4225921331,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,170XKH,CREMA,CHRYSLER,JEEP,DESCONOCIDO,Diagonal San Antonio,albein,mitla,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225921560,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,NZW9890,GRIS,NISSAN,NISSAN,KICKS 5 PUERTAS,Avenida Nuevo León,Baja California ,Quintana roo,HIPÓDROMO,Cuauhtémoc,,NA,NA
+id-4225914395,45046,2023,NA,Infringir normas generales de circulación,11,III,A,TERCERO,PAA4899,BLANCO,CHRYSLER,DODGE,DESCONOCIDO,Calzada San Antonio Abad,calzada chabacano ,Juan a Mateo ,VISTA ALEGRE,Cuauhtémoc,,NA,NA
+id-4225913657,45046,2023,NA,Infringir normas generales de circulación,11,X,A,QUINTO,A1143M,ROSA,CHEVROLET,CHEVROLET,AVEO,PASEO DE LA REFORMA ,GRANADA ,CANAL DEL NORTE ,PERALVILLO,Cuauhtémoc,,NA,NA
+id-4225917679,45046,2023,NA,Infringir normas generales de circulación,11,X,A,QUINTO,V92BKL,GRIS/NEGRO,TOYOTA,TOYOTA,DESCONOCIDO,Avenida Río Consulado,RICARDO FLORES MAGON ,HELIOTROPO ,ATLAMPA,Cuauhtémoc,,NA,NA
+id-4225915460,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,RBM908A,VERDE,CHRYSLER,FIAT,DESCONOCIDO,Calle Oriente 95,oye 95,Eduardo Molina ,NUEVA TENOCHTITLÁN,Gustavo A. Madero,,NA,NA
+id-4225914043,45046,2023,NA,Infringir normas generales de circulación,11,VIII,-----,SEGUNDO,S98BJK,BLANCO,NISSAN,NISSAN,VERSA,prado Sur ,reforma ,prado norte ,LOMAS DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225919932,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,NWV6912,ROJO,SUZUKI,SUZUKI,SWIFT,Calle Oriente 95,c nte 78 A,Eduardo Molina ,NUEVA TENOCHTITLÁN,Gustavo A. Madero,,NA,NA
+id-4225920501,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,RDA006B,AZUL MARINO,TOYOTA,TOYOTA,HIGHLANDER AWD LE,Avenida La Morena,Cuahutemoc ,Xochicalco ,NARVARTE PONIENTE,Benito Juárez,,NA,NA
+id-4225913879,45046,2023,NA,Infringir normas generales de circulación,11,X,A,QUINTO,A5828J,ROSA,CHEVROLET,CHEVROLET,SPARK,Calzada Chabacano,Jose T. Cuellar,Topacio,VISTA ALEGRE,Cuauhtémoc,,NA,NA
+id-4225917600,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,DL694,AMARILLO,VOLKSWAGEN,VOLKSWAGEN,CARIBE,San Sebastián de Aparicio,fray Toribio de venavente ,Eduardo Molina ,VASCO DE QUIROGA,Gustavo A. Madero,,NA,NA
+id-4225913992,45046,2023,NA,Infringir normas generales de circulación,11,III,A,TERCERO,760RR6,BLANCO,NA,DESCONOCIDO,DESCONOCIDO,Calzada de Tlalpan,circuito ,20 de agosto ,SAN DIEGO CHURUBUSCO,Coyoacán,,NA,NA
+id-4225915439,45046,2023,NA,Infringir normas generales de circulación,11,X,A,QUINTO,HDJ376A,GRIS,CHEVROLET,CHEVROLET,ASTRA,Metrobus 1,Chihuahua ,Yucatán ,ROMA NORTE,Cuauhtémoc,,NA,NA
+id-4225914371,45046,2023,NA,Infringir normas generales de circulación,11,III,A,TERCERO,PAA4899,BLANCO,CHRYSLER,DODGE,DESCONOCIDO,Calzada San Antonio Abad,calzada chabacano ,Juan a Mateo ,VISTA ALEGRE,Cuauhtémoc,,NA,NA
+id-4225917570,45046,2023,NA,Infringir normas generales de circulación,11,X,A,QUINTO,R89AKC,GRIS,VOLKSWAGEN,VOLKSWAGEN,JETTA,Calzada de Guadalupe,reforma.,eje 2 nte,EX-HIPÓDROMO DE PERALVILLO,Cuauhtémoc,,NA,NA
+id-4225917402,45046,2023,NA,Infringir normas generales de circulación,11,X,D,QUINTO,K74ARW,BLANCO,FORD,FORD MOTOR COMPANY,FIESTA IKON 5 PUERTAS IMPORTADO,Eje 3 Oriente,Victoria ,oriente 115,GERTRUDIS SÁNCHEZ 2A SECCIÓN,Gustavo A. Madero,,NA,NA
+id-4225919239,45046,2023,NA,Infringir normas generales de circulación,11,VIII,-----,SEGUNDO,PBE4910,GUINDA,NISSAN,NISSAN,TSURU,república federal,Luis garcia,zarragoza,AMP SANTA MARTHA ACATITLA,Iztapalapa,,NA,NA
+id-4225913756,45046,2023,NA,Violaciones de motocicletas,21,III,-----,TERCERO,8M6JA,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,PASEO DE LA REFORMA ,GRANADA ,CANAL DEL NORTE ,PERALVILLO,Cuauhtémoc,,NA,NA
+id-4225920167,45046,2023,NA,Violaciones de motocicletas,21,III,-----,TERCERO,8H1LT,AZUL CIELO,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,Poussin ,av patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225916672,45046,2023,NA,Violaciones de motocicletas,21,IV,-----,PRIMERO,25589,NEGRO,OTRA,ITALIKA,DESCONOCIDO,plutarco,eje 6 ,desconcido ,NATIVITAS,Benito Juárez,,NA,NA
+id-4225920365,45046,2023,NA,Violaciones de motocicletas,21,III,-----,TERCERO,8H1LT,AZUL CIELO,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,Poussin ,av patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225919864,45046,2023,NA,Violaciones de motocicletas,21,I,-----,PRIMERO,4R2BG,BLANCO,OTRA,ITALIKA,SCOOTER,vialidad de los cincos,eje 5,ENBACES VACIOS ,CENTRAL DE ABASTO,Iztapalapa,,NA,NA
+id-4225913671,45046,2023,NA,Violaciones de motocicletas,21,IV,-----,PRIMERO,2M1FS,AMARILLO,NA,DESCONOCIDO,DESCONOCIDO,Avenida Cuauhtémoc,angel urraza ,San Borja ,NARVARTE PONIENTE,Benito Juárez,,NA,NA
+id-4225919994,45046,2023,NA,Violaciones de motocicletas,21,III,-----,TERCERO,8H1LT,AZUL CIELO,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,Poussin ,av patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225919666,45046,2023,NA,Violaciones de motocicletas,21,I,-----,PRIMERO,8D6DP,NEGRO,OTRA,VENTO,SCOOTER,vialidad de los cincos ,ENBACES VACIOS ,eje 5,CENTRAL DE ABASTOS IZTAPALAPA,Iztapalapa,,NA,NA
+id-4225916078,45046,2023,NA,Violaciones de motocicletas,21,III,-----,TERCERO,8H1LT,AZUL,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,poussin,patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225913732,45046,2023,NA,Violaciones de motocicletas,21,III,-----,TERCERO,8M6JA,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,PASEO DE LA REFORMA ,GRANADA ,CANAL DEL NORTE ,PERALVILLO,Cuauhtémoc,,NA,NA
+id-4225914111,45046,2023,NA,Violaciones de vehículos de transporte público,22,VIII,-----,CUARTO,760RR6,BLANCO,NA,DESCONOCIDO,DESCONOCIDO,Calzada de Tlalpan,circuito ,20 de agosto ,SAN DIEGO CHURUBUSCO,Coyoacán,,NA,NA
+id-4225914210,45046,2023,NA,Violaciones de vehículos de transporte público,22,VIII,-----,CUARTO,YVA893A,BLANCO,SEAT,SEAT,DESCONOCIDO,Calzada de Tlalpan,circuito ,20 de agosto ,SAN DIEGO CHURUBUSCO,Coyoacán,,NA,NA
+id-4225914296,45046,2023,NA,Violaciones de vehículos de transporte público,22,VIII,-----,CUARTO,756BJX,BLANCO,NISSAN,NISSAN,URVAN,Calzada de Tlalpan,20 de agosto ,circuito ,SAN DIEGO CHURUBUSCO,Coyoacán,,NA,NA
+id-4225913985,45046,2023,NA,Violaciones de vehículos de transporte público,22,VI,-----,CUARTO,93RC6L,BLANCO,MERCEDES BENZ,MERCEDES BENZ,DESCONOCIDO,Paseo de la Reforma,auditorio nacional ,campo marte ,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225921416,45046,2023,NA,Otra,23,I,-----,SEGUNDO,48RB1D,VERDE,VOLVO,VOLVO,DESCONOCIDO,Viaducto Presidente Miguel Alemán,Ohio ,Dakota ,ESCANDÓN I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225913787,45046,2023,NA,Violaciones de vehículos de carga,26,II,-----,SEGUNDO,A191AG,GRIS,NISSAN,NISSAN,NP300,corregidora,anillo de circunvalación,alhondiga,CENTRO,Cuauhtémoc,,NA,NA
+id-4225916818,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,7J9NP,BLANCO,NA,DESCONOCIDO,DESCONOCIDO,LAGO CHALCO,COLEGIO SALESIANO,LAGO CHAPALA, ANAHUAC I,Miguel Hidalgo,,NA,NA
+id-4225921324,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,2M7GF,NEGRO,OTRA,ITALIKA,SinValor,GRNOVA,HAMBURGO ,JUAREZ,A?O DE JUAREZ,Cuauhtémoc,,NA,NA
+id-4225919703,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,A4235A,BLANCO,CHEVROLET,CHEVROLET,AVEO,Mariano Escobedo ,horacio ,homero ,CHAPULTEPEC MORALES,Miguel Hidalgo,,NA,NA
+id-4225919291,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,AN3976439,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Javier barros Sierra ,González Blanco ,Ernesto Orochorto ,ADOLFO   LOPEZ   MATEOS,Venustiano Carranza,,NA,NA
+id-4225921393,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,LLN826A,BLANCO,KIA,KIA,DESCONOCIDO,viaducto Río piedad ,río Churubusco ,calle 47 ,GRANJAS MEXICO,Iztacalco,,NA,NA
+id-4225916740,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,T59BGX,GRIS PLATA,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,av Coyoacán ,parroquia ,Jose Maria rico ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225921379,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,9L7HE,ROJO,HONDA,HONDA,DESCONOCIDO,IZCABALETAS,ALTAMIRANO ,GABINO BARRERA,SAN RAFAEL,Cuauhtémoc,,NA,NA
+id-4225918744,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,U27AYT,BLANCO,CHRYSLER,DODGE,JOURNEY,Prolongación Moliére,servantes savedra ,andromaco,AMPLIACIÓN GRANADA,Miguel Hidalgo,,NA,NA
+id-4225920150,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,HL5471G,BLANCO,OTRA,RENAULT,TRAFIC,Paseo de la Reforma,Anatole France,Campo Marte ,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225919314,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,184ZTN,GRIS,HONDA,HONDA,CRV,Avenida República de Argentina,del Carmen ,..,CENTRO,Cuauhtémoc,,NA,NA
+id-4225915330,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,0365E5,ROJO,OTRA,VENTO,DESCONOCIDO,shiller ,mazarik ,petrarca,CHAPULTEPEC MORALES,Miguel Hidalgo,,NA,NA
+id-4225917662,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,PBY4308,GRIS,CHEVROLET,CHEVROLET,SPARK,auditorio,chivatito,reforma,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225918713,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,10F138,BLANCO,TOYOTA,TOYOTA,RAV4,avenida Santa fe ,Joaquín Gallo,Antonio dovali,Desconocido,Álvaro Obregón,,NA,NA
+id-4225917907,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,3640F7,AZUL,OTRA,BAJAJ,TRABAJO,Rodolfo gaona,ingenieros militares ,reyes espindola,PERIODISTA,Miguel Hidalgo,,NA,NA
+id-4225914074,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,326RVU,GRIS,VOLKSWAGEN,VOLKSWAGEN,POINTER,Avenida Ejército Nacional,Prol molier , .,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225914166,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,0950075,VERDE,NISSAN,NISSAN,URVAN,Calzada de Tlalpan,20 de agosto ,circuito ,SAN DIEGO CHURUBUSCO,Coyoacán,,NA,NA
+id-4225919185,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,582VXL,AMARILLO,NA,DESCONOCIDO,DESCONOCIDO,Calzada de Guadalupe,Nezahualcóyotl ,Moctezuma ,ARAGÓN LA VILLA,Gustavo A. Madero,,NA,NA
+id-4225916634,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,NJG8305,NEGRO,FORD,FORD MOTOR COMPANY,FIESTA 4 PUERTAS NACIONAL,Calle Hans Christian Andersen,polanco,lamartine,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920648,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,W70ACS,ROJO,CHRYSLER,CHRYSLER,TOWN & COUNTRY,Viaducto Río de la Piedad,calle 57 ,calle 63 ,PUEBLA,Venustiano Carranza,,NA,NA
+id-4225921621,45046,2023,NA,Estacionar en lugares prohíbidos,30,XII,-----,TERCERO,H62BDT,GRIS,CHEVROLET,CHEVROLET,AVEO,Ricardo Flores Magón ,Zarco ,Lerdo ,NONOALCO TLATELOLCO II,Cuauhtémoc,,NA,NA
+id-77921502,45046,2023,NA,Estacionar en lugares prohíbidos,30,XXI,-----,SEGUNDO,LXZ947A,,NA,,,JULIO VERNE,CASTELAR,LUIS G. URBINA,POLANCO,Miguel Hidalgo,,NA,NA
+id-4225919802,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,PCH8541,BLANCO,OTRA,CADILLAC,ESCALADE,Avenida Javier Barros Sierra,Antonio Dovalí ,santa fe ,CIUDAD SANTA FE ALVARO OBREGON,Álvaro Obregón,,NA,NA
+id-4225919550,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,974XXL,GRIS,OTRA,RENAULT,STEPWAY 5 PUERTAS,vizcainas,bolivar,eje central,CENTRO (AREA 1),Cuauhtémoc,,NA,NA
+id-4225921300,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,A9246D,BLANCO,CHEVROLET,CHEVROLET,AVEO,Eje 3 Poniente,parroquia,Jose Maria rico ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225918584,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,PXY477D,VINO,MG,MG,ZT,viaducto Río piedad ,río Churubusco ,calle 47,GRANJAS MEXICO ,Iztacalco,,NA,NA
+id-4225914104,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,PDM1127,ROJO,CHEVROLET,CHEVROLET,DESCONOCIDO,viaducto Río piedad ,oriente 217,calle 47,GRANJAS,Iztacalco,,NA,NA
+id-4225921546,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,NPU9567,ROJO,CHEVROLET,CHEVROLET,CRUZE,Calzada Camarones,tercera cerrada de Tula ,Tercera cerrada de camarones ,SANTA MARÍA MALINALCO,Azcapotzalco,,NA,NA
+id-4225918751,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,351XRD,CAFE,FORD,FORD,FIESTA,Calle Tres Picos,lord byron,Rubén dario,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920594,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,LGP607A,GRIS,MAZDA,MAZDA,3 4P,viaducto Río piedad ,río Churubusco ,calle 47 ,GRANJAS MEXICO ,Iztacalco,,NA,NA
+id-4225921577,45046,2023,NA,Estacionar en lugares prohíbidos,30,XII,-----,TERCERO,P38AMS,GRIS,HONDA,HONDA,HR-V,Flores Magón ,Zarco ,Lerdo ,NONOALCO TLATELOLCO II,Cuauhtémoc,,NA,NA
+id-4225920983,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,4329E9,VERDE,NA,DESCONOCIDO,DESCONOCIDO,Plaza de la Constitución,madero ,16 de septiembre ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225918201,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,5U3AF,ANARANJADO,OTRA,ITALIKA,DS150,San Pablo ,las cruces de ,Jesús María ,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225917358,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,2073W,NEGRO,OTRA,YAMAHA,DESCONOCIDO,guatemala ,correo mayor ,moneda ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225918065,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,NZW6301,GRIS,CHRYSLER,DODGE,NEON,Viaducto Río Piedad ,Río Churubusco ,Calle 47,GRANJAS MEXICO ,Iztacalco,,NA,NA
+id-4225914821,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,5M5LB,BLANCO/AZUL,OTRA,ITALIKA,CS125,Avenida Francisco Sosa,Melchor ocampo,Jardín Santa Catarina,SANTA CATARINA,Coyoacán,,NA,NA
+id-4225918317,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,FR3984075,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Jesús Carranza ,eje 2,reforma, MORELOS,Cuauhtémoc,,NA,NA
+id-4225921317,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,7L9MJ,ROJO,OTRA,CARABELA,DESCONOCIDO,VAIA DE LA AZUNCION,CIRCUITO INTERIOR ,SAN HIPÓLITO ,VERONICA   ANZURES,Miguel Hidalgo,,NA,NA
+id-4225917990,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,A1279E,ROSA,CHEVROLET,CHEVROLET,AVEO,Avenida Gran Canal,oriente 167,Villa de Ayala ,SAN FELIPE DE JESÚS,Gustavo A. Madero,,NA,NA
+id-4225917921,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,D59ABN,GRIS,MITSUBISHI,MITSUBISHI,OUTLANDER,donceles,eje central,allende,CENTRO (AREA 1),Cuauhtémoc,,NA,NA
+id-4225919147,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,NNU6161,NEGRO,CHRYSLER,CHRYSLER,PT CRUISER,Calzada de Tlalpan,Emilio carranza ,Benito Juárez ,ALBERT,Benito Juárez,,NA,NA
+id-4225919024,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,C20AXN,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,Justo Sierra,argentina ,del Carmen ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225914036,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,G14ABB,GRIS,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Avenida Ejército Nacional,Juan Racine ,.,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225921034,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,261RCP,DORADO,HYUNDAI,HYUNDAI,ATOS PRIME,Eje 3 Poniente,Félix Cuevas,parroquia,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225918478,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,8L9NF,ARENA,OTRA,ITALIKA,DESCONOCIDO,San Pablo ,Jesús María ,las cruces ,AZCAPOTZALCO  CENTRO,Cuauhtémoc,,NA,NA
+id-4225921287,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,H15ACG,GRIS,HONDA,HONDA,CITY,Diagonal San Antonio,mitla,alvan,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225916023,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,F17AGA,GRIS PLATA,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Avenida Coyoacán,av Félix Cuevas ,parroquia ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225918492,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,0126C9,AZUL,OTRA,ITALIKA,DESCONOCIDO,Xochimilco ,lago Alberto ,laguna de mayran,ANÁHUAC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225919031,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,06KHA4,ANARANJADO,HONDA,HONDA,SCOOTER,Fuentes brotantes ,Guadalajara,San Juan del Río ,MIGUEL HIDALGO,Tlalpan,,NA,NA
+id-4225914012,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,635ZWJ,GRIS,FORD,FORD,ECOSPORT,Avenida Ejército Nacional,Juan Racine ,Blas Pascal ,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225916801,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,CE3989627,ANARANJADO,OTRA,YAMAHA,DESCONOCIDO,delicias,eje central ,lopez,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225915170,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,5G2YT,NEGRO,SUZUKI,SUZUKI,DESCONOCIDO,rio santiago ,acuducto ,capulin ,BARRSANTIAGO TEPALCATLALPAN,Xochimilco,,NA,NA
+id-4225917372,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,C81AMN,ROJO,CHRYSLER,DODGE,DESCONOCIDO,auditorio,chivatito,reforma,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225919901,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,903YSY,ARENA,TOYOTA,TOYOTA,AVANZA 4 PUERTAS,Paseo de la Reforma,LIEJA,RIO ELBA,CUAHUTEMOC,Cuauhtémoc,,NA,NA
+id-4225921584,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,NXC2594,AZUL,TOYOTA,TOYOTA,COROLLA,campo marte,auditorio,chivatito,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225921553,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,NJH5095,CAFE,NISSAN,NISSAN,XTRAIL 5 PUERTAS,campo marte,chivatito,auditorio,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225913725,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,U58BKH,BLANCO,OTRA,RAM,C/V,rep. Guatemala,margil,anillo de circunvalación,CENTRO,Cuauhtémoc,,NA,NA
+id-4225917655,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,NRE5628,CAFE,NISSAN,NISSAN,TSURU,docenceles ,Brazil ,Argentina ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225921072,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,B77BDX,ROJO,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Calle Palma,Venustiano Carranza ,16 de septiembre ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225915996,45046,2023,NA,Estacionar en lugares prohíbidos,30,VI,-----,SEXTO,F43AGU,ROJO,NISSAN,NISSAN,XTRAIL 5 PUERTAS,Extremadura,malaga,cadiz,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225919680,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,LUW531A,AZUL,KIA,KIA,RIO,vizcainas,aldaco,eje central,CENTRO (AREA 1),Cuauhtémoc,,NA,NA
+id-4225915231,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,7J5CW,NEGRO,OTRA,YAMAHA,DESCONOCIDO,revolución ,progreso ,benjamín Franki ,COL. ESCANDON,Miguel Hidalgo,,NA,NA
+id-4225913961,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,U71ABZ,DORADO,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Avenida Ejército Nacional,Juan Racine ,.,IRRIGACIÓN,Miguel Hidalgo,,NA,NA
+id-4225921188,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,2C4FW,NEGRO/ROJO,NA,DESCONOCIDO,DESCONOCIDO,16 de Septiembre,camarones ,libertad ,CENTRO DE AZCAPOTZALCO,Azcapotzalco,,NA,NA
+id-4225918195,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,FR3984077,ROJO,HONDA,HONDA,DESCONOCIDO,Jesús Carranza ,eje 2,reforma, MORELOS,Cuauhtémoc,,NA,NA
+id-77909302,45046,2023,NA,Estacionar en lugares prohíbidos,30,XXI,-----,SEGUNDO,14F387,,NA,,,ALEJANDRO DUMAS,LUIS G URBINA,CAMPOS ELISEOS,POLAANCO,Miguel Hidalgo,,NA,NA
+id-4225919925,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,J35BMV,GRIS,HYUNDAI,HYUNDAI,CRETA,Avenida Canal de Miramontes,calzada de las brujas ,Acoxpa ,EX HACIENDA COAPA,Tlalpan,,NA,NA
+id-4225920471,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,710TCR,GRIS,HONDA,HONDA,CRV,República de Uruguay,5 de febrero ,Isabel la católica ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225913862,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,C25BKS,GRIS,NISSAN,NISSAN,SENTRA FE,Avenida 5 de Mayo,palma,Isabel la catolica,CENTRO,Cuauhtémoc,,NA,NA
+id-4225914999,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,9484D6,BLANCO,OTRA,ITALIKA,DESCONOCIDO,Francisco sosa,Melchor ocampo,pino,BARRIO SANTA CATARINA,Coyoacán,,NA,NA
+id-4225918614,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,287SMZ,BLANCO,CHEVROLET,CHEVROLET,CORSA,Calzada de Guadalupe,Nezahualcóyotl ,Moctezuma ,ARAGÓN LA VILLA,Gustavo A. Madero,,NA,NA
+id-4225918225,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,V65BEB,BLANCO,SEAT,SEAT,IBIZA,José ceballos,parque lira,José rebollar,AMP SAN MIGUEL,Miguel Hidalgo,,NA,NA
+id-4225915873,45046,2023,NA,Estacionar en lugares prohíbidos,30,VII,-----,SEXTO,A0401D,ROSA,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Calzada de las Águilas,Fresnos,tercera de bahia,SAN CLEMENTE SUR,Álvaro Obregón,,NA,NA
+id-4225920969,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,A76AUG,GRIS,OTRA,RENAULT,LOGAN,Diagonal San Antonio,mitla,la quemada,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225918799,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,PYH432C,ROJO,KIA,"""KIA MOTORS MEXICO, S. A. DE C.V.""",SPORTAGE 5 PUERTAS IMPORTADO,Avenida Santa Fe,Antonio dovali ,Joaquín Gallo ,Desconocido,Álvaro Obregón,,NA,NA
+id-4225917945,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,2K9DC,ROJO,OTRA,DINAMO,TRABAJO,peralvillo ,LIBERTAD ,Jaime nuno , MORELOS,Cuauhtémoc,,NA,NA
+id-4225921409,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,C97AVD,GRIS,CHEVROLET,CHEVROLET,SPARK,av Coyoacán,parroquia,Jose Maria rico ,COL DEL VALLE,Coyoacán,,NA,NA
+id-4225917464,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,Y46AAA,BLANCO,OTRA,RENAULT,SANDERO,auditorio,chivatito,reforma,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225913794,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,A9132B,ROSA,CHEVROLET,CHEVROLET,AVEO,Avenida Baja California,Toluca,Ures,ROMA SUR,Cuauhtémoc,,NA,NA
+id-4225920778,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,E15BLA,ROJO,MG,MG,COUPE,Eje 3 Poniente,Félix Cuevas,parroquia,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225921638,45046,2023,NA,Estacionar en lugares prohíbidos,30,XII,-----,TERCERO,166ZCP,GRIS PLATA,NISSAN,NISSAN,VERSA,Avenida Ricardo Flores Magón,PASEO DE LA REFORMA NORTE,IGNACIO ALLENDE ,GUERRERO,Cuauhtémoc,,NA,NA
+id-4225914289,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,6642C7,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,Prolongación Moliére,miguel Cervantes Saavedra ,.,GRANADA,Miguel Hidalgo,,NA,NA
+id-4225914265,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,2L7FY,BLANCO/NEGRO,NA,DESCONOCIDO,DESCONOCIDO,Prolongación Moliére,Ejercito Nacional ,Miguel Cervantes Saavedra ,GRANADA,Miguel Hidalgo,,NA,NA
+id-4225914029,45046,2023,NA,Estacionar en lugares prohíbidos,30,XV,-----,SEXTO,0360224,VERDE,NA,DESCONOCIDO,DESCONOCIDO,prolongación división del norte,andador 24,Miramontes ,NARCISO MENDOZA,Tlalpan,,NA,NA
+id-4225921348,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,H42ACX,AZUL,CHEVROLET,CHEVROLET,SONIC,Eje 3 Poniente,parroquia,Jose Maria rico ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225915316,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,SJ3989208,NEGRO,OTRA,ITALIKA,DESCONOCIDO,revolución ,progreso ,benjamín Franki ,COL. ESCANDON,Miguel Hidalgo,,NA,NA
+id-4225913749,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,C24AZM,BLANCO,CHRYSLER,DODGE,RAM 1500,Avenida Río Soto La Marina,Río mixteco ,Río nexapa ,LOS PASEOS DE CHURUBUSCO,Iztapalapa,,NA,NA
+id-4225920679,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,NHP2386,GRIS,VOLKSWAGEN,VOLKSWAGEN,GOL 4 PUERTAS,Av Grutas ,Paseo de la Reforma,Mahatma Gandi ,BOSQUE DE CHAPULPETEC,Miguel Hidalgo,,NA,NA
+id-4225913831,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,PEC7381,BLANCO,NA,DESCONOCIDO,DESCONOCIDO,Lamartine,Isaac Newton,Horacio,POLANCO,Miguel Hidalgo,,NA,NA
+id-4225920945,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,3501B5,ROJO,NA,DESCONOCIDO,DESCONOCIDO,Calle Francisco J. Serrano,Carlos lazo,Antonio dobali,CDSANTA FE,Cuajimalpa de Morelos,,NA,NA
+id-4225919161,45046,2023,NA,Estacionar en lugares prohíbidos,30,XII,-----,TERCERO,T87BCN,GRIS,MERCEDES BENZ,MERCEDES BENZ,DESCONOCIDO,Calle Allende,Perú,Honduras ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225914067,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,PBL6637,ROJO,NISSAN,NISSAN,SENTRA,República de Uruguay,5 de febrero ,Isabel la católica ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225920273,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,922XYS,ROJO,CHRYSLER,FIAT,LINEA,donceles,eje central,allende,CENTRO (AREA 1),Cuauhtémoc,,NA,NA
+id-4225919451,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,5G8CB,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,horacio ,spencer,Mariano escobddo,POLANCO  V SECCION,Miguel Hidalgo,,NA,NA
+id-4225916566,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,36KGT1,BLANCO,HONDA,HONDA,DESCONOCIDO,JOSE LUIS LAGRANGE,HORACIO,PRIVADA DE HORACIO ,POLANCO,Miguel Hidalgo,,NA,NA
+id-4225918072,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,2X4MJ,AZUL,OTRA,YAMAHA,DESCONOCIDO,correo mayor ,Uruguay ,salvador ,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225920600,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,NZT8809,GRIS,NISSAN,NISSAN,VERSA,Río Guadalquivir,río panuco,río Lerma ,Desconocido,Cuauhtémoc,,NA,NA
+id-4225918003,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,CE3989635,BLANCO,OTRA,VENTO,DESCONOCIDO,insurgentes ,Yucatán ,Guanajuato ,ROMA  NORTE,Cuauhtémoc,,NA,NA
+id-4225918164,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,A1556B,ROSA,NISSAN,NISSAN,VERSA,Avenida Gran Canal,Villa de Ayala ,oriente 167,SAN FELIPE DE JESÚS,Gustavo A. Madero,,NA,NA
+id-4225917334,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,NTZ7518,BLANCO,FORD,FORD,FIGO,Calle Independencia,marroquí ,Luis Moya ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225920587,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,Z63BLS,GRIS,FORD,FORD,DESCONOCIDO,República de Uruguay,5 de febrero ,Isabel la católica ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225919505,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,PDZ6273,CAFE,VOLKSWAGEN,VOLKSWAGEN,POINTER,artículo ,revillagigedo ,Luis Moya ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225915736,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,5M9LF,NEGRO,OTRA,VENTO,DESCONOCIDO,Plaza de la Constitución,pino Suárez ,5 de mayo ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225915200,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,170XRH,AZUL,OTRA,SMART,DESCONOCIDO,Miguel lauren,av Cuahutemoc ,anaxagoras ,LETRÁN VALLE,Benito Juárez,,NA,NA
+id-4225919468,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,M73ALW,BLANCO,CHRYSLER,DODGE,ATTITUDE GLS,Avenida Doctor José María Vertiz,Esperanza ,obrero mundial ,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225917525,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,01MPB7,AMARILLO,HONDA,HONDA,DESCONOCIDO,libertad ,peralvillo ,eje 1, MORELOS,Cuauhtémoc,,NA,NA
+id-4225920976,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,934XUR,ROJO,SEAT,SEAT,IBIZA,Eje 3 Poniente,Félix Cuevas,parroquia,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225920532,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,A53BJY,BLANCO,OTRA,RENAULT,KOLEOS,Avenida Gran Canal,villa de Ayala ,oriente 167,LA ESMERALDA,Gustavo A. Madero,,NA,NA
+id-4225919871,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,P26BJC,AZUL,CHEVROLET,CHEVROLET,AVEO,Mariano Escobedo ,horacio ,homero,CHAPULTEPEC MORALES,Miguel Hidalgo,,NA,NA
+id-4225917365,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,4M4EC,NEGRO,OTRA,VELOCI,TRABAJO,lago Xochimilco ,San ipolito,bahía del espíritu Santo ,ANÁHUAC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225915606,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,9J2HY,ROJO,OTRA,ITALIKA,DS150,roa barcenas ,BOLIVAR ,eje central ,OBRERA ,Cuauhtémoc,,NA,NA
+id-4225916917,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,NLK5010,NEGRO,TOYOTA,TOYOTA,HIACE,independencia,Luis moya,José María marroqui,CENTRO (AREA 1),Cuauhtémoc,,NA,NA
+id-4225916177,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,X86BJE,BLANCO,SUZUKI,SUZUKI,DESCONOCIDO,Avenida Coyoacán,av Félix Cuevas ,parroquia ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225916276,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,242ZLN,AZUL MARINO,SEAT,SEAT,IBIZA,av Coyoacán ,parroquia ,Jose Maria rico,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225920709,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,D34ALM,GRIS,NISSAN,NISSAN,XTRAIL 5 PUERTAS,Avenida Coyoacán,Félix Cuevas,parroquia ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225921058,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,736SAL,AZUL,CHEVROLET,CHEVROLET,CAVALIER,Diagonal San Antonio,mitla,monte alban,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225921164,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,736SAL,AZUL,CHEVROLET,CHEVROLET,CAVALIER,Diagonal San Antonio,mitla,albez ,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225915644,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,CE3989625,AZUL,OTRA,ITALIKA,DS150,roa barcenas ,bolivar ,eje central ,OBRERA ,Cuauhtémoc,,NA,NA
+id-4225915958,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,5L3CX,VERDE,OTRA,ITALIKA,DESCONOCIDO,rinconada de estrella ,lerdo,estrella,COL GUERRERO,Cuauhtémoc,,NA,NA
+id-4225920464,45046,2023,NA,Estacionar en lugares prohíbidos,30,VI,-----,SEXTO,S41BHF,ANARANJADO,HONDA,HONDA,DESCONOCIDO,Paseo de la Reforma,Av.Acuario ,sn,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225917785,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,1469E4,BLANCO,OTRA,YAMAHA,DESCONOCIDO,apartado ,del Carmen ,bolivia ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225914098,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,466WYC,ARENA,NISSAN,NISSAN,TIIDA SEDÁN 4 PUERTAS,Ferrocarril de Cuernavaca,Ejercito Nacional ,Miguel Cervantes Saavedra ,GRANADA,Miguel Hidalgo,,NA,NA
+id-4225920952,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,HRE466C,BLANCO,CHEVROLET,CHEVROLET,TRAVERSE,viaducto Río piedad ,río Churubusco ,calle 47 ,GRANJAS  MEXICO,Iztacalco,,NA,NA
+id-4225917044,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,SJ3989222,NEGRO,OTRA,ITALIKA,DESCONOCIDO,RIO NILO,LATERAL DE REFORMA,Río BELGA,CUAUHTEMOC,Cuauhtémoc,,NA,NA
+id-4225917709,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,11KGZ9,NEGRO,HONDA,HONDA,DESCONOCIDO,bolivia ,del Carmen ,apartado ,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225916504,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,,ANARANJADO,OTRA,YAMAHA,DESCONOCIDO,delicias,eje central ,López ,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225916641,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,98KGN9,BLANCO/ROJO,HONDA,HONDA,DESCONOCIDO,Calle Poniente 54,camarones ,biologo maximino,OBRERO POPULAR,Azcapotzalco,,NA,NA
+id-4225920235,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,470XZP,AZUL,SEAT,SEAT,IBIZA,donceles,eje central,allende,CENTRO (AREA 1),Cuauhtémoc,,NA,NA
+id-4225916979,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,697VDC,NEGRO,OTRA,PONTIAC,MATIZ,Avenida Ricardo Flores Magón,LAZARO CARDENAS ,IGNACIO ALLENDE,NONOALCO TLATELOLCO,Cuauhtémoc,,NA,NA
+id-4225918348,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,4882B5,ROJO,OTRA,ITALIKA,DESCONOCIDO,San Pablo ,las cruces ,Jesús María ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225915613,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,5L5UB,ROJO,OTRA,ITALIKA,DESCONOCIDO,Jesús Carranza ,eje 2,gorostiza , MORELOS,Cuauhtémoc,,NA,NA
+id-4225919628,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,UPU261H,BLANCO,HONDA,HONDA,CIVIC,Avenida Presidente Masaryk,presidente masaryk,Mariano escobedo,POLANCO,Miguel Hidalgo,,NA,NA
+id-4225917969,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,51KGS5,ROJO,HONDA,HONDA,DESCONOCIDO,insurgentes ,Monterrey ,colima ,ROMA NORTE,Cuauhtémoc,,NA,NA
+id-4225920518,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,1L6BC,PLATA,OTRA,ITALIKA,DESCONOCIDO,Calzada Camarones,primera privada de Tula ,segunda privada de Tula ,SINDICATO MEXICANO DE ELECTRICISTAS,Azcapotzalco,,NA,NA
+id-4225918010,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,9414C3,GRIS,OTRA,ITALIKA,DESCONOCIDO,Jesús Carranza ,eje 2,reforma , MORELOS,Cuauhtémoc,,NA,NA
+id-4225919420,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,3L9TW,ROJO,OTRA,ITALIKA,DESCONOCIDO,Jesús Carranza ,reforma,eje 2, MORELOS,Cuauhtémoc,,NA,NA
+id-4225919789,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,A6271K,BLANCO,NISSAN,NISSAN MEXICANA  SA DE CV,SENTRA SEDAN 4 PTAS,Avenida Gran Canal,Villa de Ayala ,oriente 167,LA ESMERALDA,Gustavo A. Madero,,NA,NA
+id-4225919857,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,PWV568C,ROJO,SEAT,SEAT,IBIZA,Paseo de la Reforma,Lieja ,paseo de la Reforma ,BOSQUE CHAPULTEPEC,Cuauhtémoc,,NA,NA
+id-4225920624,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,828TFG,AZUL,CHEVROLET,CHEVROLET,CHEVY C2 SEDAN,Avenida Gran Canal,villa de Ayala ,oriente 167,LA ESMERALDA,Gustavo A. Madero,,NA,NA
+id-4225914227,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,A5346G,BLANCO,CHEVROLET,CHEVROLET,AVEO,Boulevard Miguel de Cervantes Saavedra,Prol molier ,.,GRANADA,Miguel Hidalgo,,NA,NA
+id-4225920938,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,899XNW,NEGRO,NISSAN,NISSAN,TIIDA 1.8 S,Diagonal San Antonio,la quemada,mitla,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225915934,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,3M7DA,BLANCO,OTRA,ITALIKA,TRABAJO,cerrada de FERROCARRIL ,lago zirich,lago nauchatel,AMP    GRANADA,Miguel Hidalgo,,NA,NA
+id-4225918102,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,2H2ZH,NEGRO,OTRA,ITALIKA,SinValor,SERVANTES SAAVEDRA ,LAGO VICTORIA ,RIO SAN JOAQUIN ,AMP GRANADA,Miguel Hidalgo,,NA,NA
+id-4225917204,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,M50BCU,BLANCO,GMC,GMC,DESCONOCIDO,Santa Apolonia,ferrocarriles ,Aquiles Serdán ,SAN FRANCISCO TETECALA,Azcapotzalco,,NA,NA
+id-4225914173,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,659WYD,GRIS,TOYOTA,TOYOTA,CAMRY,Calle Alpes,Andes,Bulevard Adolfo López Mateos ,LOS ALPES,Álvaro Obregón,,NA,NA
+id-4225917747,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,42DBH2,AZUL,OTRA,YAMAHA,DESCONOCIDO,libertad,peralvillo ,Jaime nuno , MORELOS,Cuauhtémoc,,NA,NA
+id-4225921027,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,4SF105,BLANCO,AUDI,AUDI,DESCONOCIDO,Calle Francisco J. Serrano,Carlos lazo ,Antonio dobali ,LOMAS DE SANTA FE AMPLIACION,Cuajimalpa de Morelos,,NA,NA
+id-4225918621,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,X50AAW,ROJO,OTRA,PEUGEOT,DESCONOCIDO,Calle Tres Picos,lord byron,arquimides,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225914432,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,A3192H,BLANCO,NISSAN,NISSAN,VERSA,Viaducto Río de la Piedad,calle 63,ng,GRANJAS MÉXICO,Iztacalco,,NA,NA
+id-4225916849,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,H38ACE,AZUL CIELO,CHEVROLET,CHEVROLET,SPARK,av Coyoacán ,parroquia , Jose Maria rico ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225920808,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,S92AFU,AZUL,FORD,FORD,FOCUS FWD,Eje 3 Poniente,Félix Cuevas,parroquia,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225916931,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,NWM7030,GRIS,FORD,FORD,ESCAPE,Calle Tres Picos,hegel,polanco,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225921096,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,736SAL,AZUL,CHEVROLET,CHEVROLET,CAVALIER,Diagonal San Antonio,mitla,monte alban,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225921140,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,242ZLN,AZUL,SEAT,SEAT,IBIZA,Eje 3 Poniente,Felix Cuevas ,parroquia,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225921454,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,88MRE5,BLANCO,OTRA,ITALIKA,DESCONOCIDO,camino a nativitas ,calle central ,él mercado ,BARRIO XALTOCAN,Xochimilco,,NA,NA
+id-4225919222,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,42F817,ROJO,TOYOTA,TOYOTA,PRIUS,Avenida Presidente Masaryk,MARIANO ESCOBEDO,SPENCER,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225916061,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,609SRA,BLANCO,CHEVROLET,CHEVROLET,CORSA SEDAN,Avenida Coyoacán,av Félix Cuevas ,parroquia ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225919987,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,VBM755C,NEGRO,CHEVROLET,CHEVROLET,CAPTIVA AWD,viaducto Río piedad ,río Churubusco ,calle 47,GRANJAS MEXICO,Iztacalco,,NA,NA
+id-4225920129,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,NXR5803,GRIS,TOYOTA,TOYOTA,DESCONOCIDO,viaducto Río piedad ,río Churubusco ,calle 47 ,GRANJAS MEXICO,Iztacalco,,NA,NA
+id-4225918690,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,UWH030M,BLANCO,CHEVROLET,CHEVROLET,TRAX,viaducto Río piedad,circuito interior,economia,GRANJAS MEXICO,Iztacalco,,NA,NA
+id-4225916092,45046,2023,NA,Estacionar en lugares prohíbidos,30,VI,-----,SEXTO,74KFV6,GRIS,OTRA,BAJAJ,SinValor,Avenida Miguel Ángel de Quevedo,universidad ,cerro del hombre ,MANUEL ROMERO TERREROS,Coyoacán,,NA,NA
+id-4225918607,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,674YDN,GRIS PLATA,SEAT,SEAT,LEON,Avenida Ricardo Flores Magón,EJE CENTRAL LAZARO CARDENAS,IGNACIO ALLENDE ,NONOALCO TLATELOLCO,Cuauhtémoc,,NA,NA
+id-4225917105,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,LD69344,BLANCO,CHEVROLET,CHEVROLET,INDEFINIDA,periférico sur,picacho ajusco,camino a santa teresa,JARDINES DEL PEDREGAL DE SAN ANGEL,Coyoacán,,NA,NA
+id-4225920990,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,N69BGG,CAFE,CHRYSLER,JEEP,DESCONOCIDO,Diagonal San Antonio,quemada,mitla,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225918966,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,3K1ZM,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,fuentes brotantes ,guadalajara ,San Juan del Río ,MIGUEL HIDALGO ,Tlalpan,,NA,NA
+id-4225913800,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,C08BAC,GRIS,CHEVROLET,CHEVROLET,AVEO,Avenida Río Soto La Marina,Río mixteco ,Río nexapa ,LOS PASEOS DE CHURUBUSCO,Iztapalapa,,NA,NA
+id-4225915521,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,8580G5,NEGRO,OTRA,TVS,TRABAJO,Mariano Escobedo ,Euclides,homero,ANZURES,Miguel Hidalgo,,NA,NA
+id-4225920525,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,06KGR8,BLANCO,HONDA,HONDA,DESCONOCIDO,Avenida José María Pino Suárez,salvador ,uruguay ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225917556,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,9K3UG,BLANCO,HONDA,HONDA,DESCONOCIDO,bolivia ,del Carmen ,apartado,CENTRO,Cuauhtémoc,,NA,NA
+id-4225914159,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,1E7TJ,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,Horacio,Hegel,Lope vega,POLANCO,Miguel Hidalgo,,NA,NA
+id-4225918973,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,NMS8465,AZUL,CHEVROLET,CHEVROLET,CHEVY C2 3P/5P,San Isidro,calzada de las armas,Morelos ,PROVIDENCIA,Azcapotzalco,,NA,NA
+id-4225919567,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,S37BFV,AZUL,CHEVROLET,CHEVROLET,AVEO,Calzada de Guadalupe,Victoria ,tesoro ,ESTRELLA,Gustavo A. Madero,,NA,NA
+id-4225919321,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,128XCZ,AZUL,CHRYSLER,DODGE,DESCONOCIDO,soto la marina,río macuspana,s n,LOS PASEOS DE CHURUBUSCO,Iztapalapa,,NA,NA
+id-4225918140,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,B50AVD,VINO,OTRA,LINCOLN,DESCONOCIDO,viaducto Río piedad,Río Churubusco,economia,GRANJAS MEXICO,Iztacalco,,NA,NA
+id-4225917396,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,582SYC,NEGRO,VOLKSWAGEN,VOLKSWAGEN,POINTER,Calle Tochtli,centeotl ,tezozomoc ,SANTA LUCÍA,Azcapotzalco,,NA,NA
+id-4225921157,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,383XHE,NEGRO,FORD,FORD,FOCUS,Calle Tochtli,tezozomoc ,centeotl ,SANTA LUCÍA,Azcapotzalco,,NA,NA
+id-4225914197,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,H78BLK,NEGRO,HYUNDAI,HYUNDAI,GRAND I10,Boulevard Miguel de Cervantes Saavedra,F.C. De Cuernavaca ,Prolongación Moliere ,GRANADA,Miguel Hidalgo,,NA,NA
+id-4225914234,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,A7446D,GRIS,NISSAN,NISSAN,VERSA,Boulevard Miguel de Cervantes Saavedra,Prol. Moliere ,Lago Victoria ,GRANADA,Miguel Hidalgo,,NA,NA
+id-4225919635,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,A1879H,BLANCO,NISSAN,NISSAN,TIIDA SEDÁN 4 PUERTAS,Avenida Doctor José María Vertiz,esperanza ,obrero mundial ,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225919345,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,8766D3,AZUL,OTRA,ITALIKA,DS150,celaya ,insurgentes ,sonora ,HIPÓDROMO,Cuauhtémoc,,NA,NA
+id-4225917075,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,G68ABX,NEGRO,VOLKSWAGEN,VOLKSWAGEN,JETTA,Auditorio Nacional,chivatito,reforma,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920716,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,A7824A,BLANCO,VOLKSWAGEN,VOLKSWAGEN,BORA,Avenida 5 de Mayo,Isabel la católica ,calle de palma,CENTRO,Cuauhtémoc,,NA,NA
+id-4225920426,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,8G2UB,AZUL METALICO,OTRA,YAMAHA,DESCONOCIDO,Avenida República de El Salvador,pinosuarez ,20 de noviembre ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225918843,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,B30BFZ,CAFE,NISSAN,NISSAN,VERSA,allende,eje central,allende,CENTRO (AREA 1),Cuauhtémoc,,NA,NA
+id-4225918133,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,PYG877A,NEGRO,CHRYSLER,JEEP,DESCONOCIDO,Prolongación Santa Fe,Antonio dovali,Joaquín gallo ,Desconocido,Álvaro Obregón,,NA,NA
+id-4225920303,45046,2023,NA,Estacionar en lugares prohíbidos,30,VI,-----,SEXTO,306YYT,ROJO,VOLKSWAGEN,VOLKSWAGEN,JETTA,Paseo de la Reforma,CALZADA CHIVATITO,ANATOLE FRANCE,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920723,45046,2023,NA,Estacionar en lugares prohíbidos,30,X,B,QUINTO,NY3821A,BLANCO,OTRA,PEUGEOT,DESCONOCIDO,lago iseo,lago alberto,laguna de Mayran, ANAHUAC I,Miguel Hidalgo,,NA,NA
+id-4225918447,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,Z72BLS,BLANCO,FORD,"FORD MOTOR COMPANY, S.A. DE C.V.",Territory 5 puertas (importado),Calzada de Guadalupe,Moctezuma ,Nezahualcóyotl ,ARAGÓN LA VILLA,Gustavo A. Madero,,NA,NA
+id-4225915705,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,FR3984066,GRIS,OTRA,VENTO,DESCONOCIDO,Jesús Carranza ,eje 2,gorostiza , MORELOS,Cuauhtémoc,,NA,NA
+id-4225916009,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,2M9ET,GRIS,OTRA,VENTO,DESCONOCIDO,Camelia ,Zaragoza ,guerrero ,BUENAVISTA ,Cuauhtémoc,,NA,NA
+id-4225915569,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,4575B3,ANARANJADO,OTRA,KTM,PISTA,roa barcenas ,bolivar ,eje central ,OBRERA ,Cuauhtémoc,,NA,NA
+id-4225918515,45046,2023,NA,Estacionar en lugares prohíbidos,30,XII,-----,TERCERO,384SMY,BLANCO METALICO,HONDA,HONDA,ODYSSEY,flores Magón ,Lerdo ,Zarco ,TLATELOLCO 2DA. SECC.,Cuauhtémoc,,NA,NA
+id-4225917242,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,69DGA2,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Xochimilco ,San ipolito,bahía del espíritu Santo ,ANÁHUAC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225921256,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,887YPE,BLANCO,OTRA,CADILLAC,ESCALADE,Eje 3 Poniente,Félix Cuevas,parroquia,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225921010,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,Z60ANR,ROJO,TOYOTA,TOYOTA,DESCONOCIDO,La Quebrada,quemada,mitla,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225915484,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,319UEU,BLANCO,FORD,FORD,DESCONOCIDO,Avenida Niños Héroes de Chapultepec,Guipúzcoa ,calzada de Tlalpan ,NIÑOS HÉROES,Benito Juárez,,NA,NA
+id-4225921614,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,L79ATU,BLANCO,KIA,KIA,SPORTAGE,Avenida Ricardo Flores Magón,EJE CENTRAL LAZARO CARDENAS ,IGNACIO ALLENDE ,GUERRERO,Cuauhtémoc,,NA,NA
+id-4225917426,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,MDE924A,GRIS/NEGRO,NISSAN,"""NISSAN MEXICANA, S.A. DE C.V.""",SENTRA SEDAN 4 PTAS,Andalucía,coruña,segovia,Alamos,Benito Juárez,,NA,NA
+id-4225920563,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,910NMY,GRIS,FORD,FORD,FOCUS FWD,Eje 3 Poniente,parroquia ,Félix Cuevas,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225920792,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,K82AEZ,AZUL MARINO,VOLKSWAGEN,VOLKSWAGEN,GOLF 4 PUERTAS,morelos,San Pedro ,Gómez farias,COL. DEL CARMEN,Coyoacán,,NA,NA
+id-4225917501,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,4J9GF,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Perú ,Brasil ,Honduras ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225918058,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,PBY4308,GRIS,CHEVROLET,CHEVROLET,SPARK,campo marte,auditori,chivatito,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225915620,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,5L5UB,ROJO,OTRA,ITALIKA,DESCONOCIDO,Jesús Carranza ,eje 2,gorostiza , MORELOS,Cuauhtémoc,,NA,NA
+id-4225919796,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,T45BDT,AZUL,KIA,KIA,RIO,Mariano Escobedo ,horacio ,homero ,CHAPULTEPEC MORALES,Miguel Hidalgo,,NA,NA
+id-4225921133,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,45F105,BLANCO,AUDI,AUDI,DESCONOCIDO,Avenida Javier Barros Sierra,Antonio dovali,avenida Santa fe,ZEDEC SANTA FE,Álvaro Obregón,,NA,NA
+id-4225913664,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,B79AZB,BLANCO,KIA,KIA,SOUL,Avenida Río Soto La Marina,Río mixteco ,Río nexapa ,LOS PASEOS DE CHURUBUSCO,Iztapalapa,,NA,NA
+id-4225919727,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,PCL7768,NEGRO,MITSUBISHI,MITSUBISHI,DESCONOCIDO,viaducto Río piedad ,Churubusco ,calle 47,GRANJAS MEXICO ,Iztacalco,,NA,NA
+id-4225921218,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,4L4HF,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,Avenida Javier Barros Sierra,Antonio dovali,avenida Santa fe,ZEDEC SANTA FE,Álvaro Obregón,,NA,NA
+id-4225916368,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,G41HY,NEGRO,OTRA,ITALIKA,DESCONOCIDO,sur 132,poniente 75,sur 130,AMERICA,Miguel Hidalgo,,NA,NA
+id-4225917839,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,PAA8147,NEGRO,KIA,KIA,SELTOS,Calzada San Antonio Abad,Juan E Hernández y Dávalos ,Jose Toribio Medina ,Algarín,Cuauhtémoc,,NA,NA
+id-4225914142,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,313VZX,ROJO,MITSUBISHI,MITSUBISHI,DESCONOCIDO,Avenida Ejército Nacional,Prol molier ,  .,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225921232,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,105UTH,NEGRO,OTRA,PONTIAC,DESCONOCIDO,Diagonal San Antonio,mitla,alban,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225919659,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,4H2NX,NEGRO,OTRA,BAJAJ,DOBLE PROPOSITO,Calzada de Guadalupe,victoria,tesoro,ESTRELLA,Gustavo A. Madero,,NA,NA
+id-4225919482,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,4W3KR,ROJO,OTRA,ITALIKA,DESCONOCIDO,Jesús Carranza ,eje 2,gorostiza , MORELOS,Cuauhtémoc,,NA,NA
+id-4225919284,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,NUC8603,AZUL CLARO,CHEVROLET,CHEVROLET,OPTRA,Calzada de Tlalpan,La Coruña ,Calz STA Anita ,VIADUCTO PIEDAD,Iztacalco,,NA,NA
+id-4225913954,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,A03363,BLANCO,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Avenida Ejército Nacional,Anillo periférico ,Juan Racine ,IRRIGACIÓN,Miguel Hidalgo,,NA,NA
+id-4225917259,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,78KFU1,VERDE,OTRA,YAMAHA,DESCONOCIDO,mesones ,correo mayor ,regina ,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225920761,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,T78AAM,GRIS,OTRA,PONTIAC,MATIZ,Avenida Gran Canal,villa de ayala,oriente 167,LA ESMERALDA,Gustavo A. Madero,,NA,NA
+id-4225916726,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,7291B6,GRIS,OTRA,ITALIKA,DESCONOCIDO,conscripto,bulevar pipila,periférico ,LOMAS MANUEL ÁVILA CAMACHO,Miguel Hidalgo,,NA,NA
+id-4225919338,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,5L1SC,NEGRO,OTRA,HERO,TRABAJO,eje 2 ,reforma,Jesús Carranza , MORELOS,Cuauhtémoc,,NA,NA
+id-4225920266,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,907ZJX,GRIS,FORD,FORD,DESCONOCIDO,Avenida Gran Canal,villa de ayala,oriente 167,LA ESMERALDA,Gustavo A. Madero,,NA,NA
+id-4225919352,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,184ZTN,GRIS,HONDA,HONDA,CRV,Avenida República de Argentina,del Carmen ,..,CENTRO,Cuauhtémoc,,NA,NA
+id-4225916320,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,D71BKM,BLANCO,CHEVROLET,CHEVROLET,CAPTIVA,16 de Septiembre,avenida Azcapotzalco ,Manuel Acuña ,CENTRO DE AZCAPOTZALCO,Azcapotzalco,,NA,NA
+id-4225919758,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,T45BDT,AZUL,KIA,KIA,RIO,Mariano Escobedo ,horacio ,homero ,CHAPULTEPEC MORALES,Miguel Hidalgo,,NA,NA
+id-4225913763,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,B73AYR,BLANCO,VOLKSWAGEN,VOLKSWAGEN,JETTA CLÁSICO 4 PUERTAS,Avenida Río Soto La Marina,Río mixteco ,Río nexapa ,LOS PASEOS DE CHURUBUSCO,Iztapalapa,,NA,NA
+id-4225918805,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,99KHB7,NEGRO,NA,DESCONOCIDO,DESCONOCIDO,Av Santa fe,Antonio dovali,Joaquín gallo ,SANTA FE,Álvaro Obregón,,NA,NA
+id-4225920327,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,Z41BJW,ROJO,HYUNDAI,HYUNDAI,I10,Avenida Rubén Darío,reforma ,chivatito ,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920495,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,K94AGF,GRIS,TOYOTA,TOYOTA,RAV4,Avenida Gran Canal,oriente 167,villa de Ayala ,LA ESMERALDA,Gustavo A. Madero,,NA,NA
+id-4225918942,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,Z61AZC,ROJO,OTRA,RENAULT,DESCONOCIDO,Calzada de Tlalpan,corredores ,ciclistas ,COUNTRY CLUB,Coyoacán,,NA,NA
+id-4225917815,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,A5788G,ROSA,CHEVROLET,CHEVROLET,AVEO,Avenida Gran Canal,oriente 167,Villa de Ayala ,NUEVA ATZACOALCO,Gustavo A. Madero,,NA,NA
+id-4225921461,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,608PDY,GRIS,VOLKSWAGEN,VOLKSWAGEN,SEDAN,av Coyoacán,av Coyoacán,parroquia ,COL DEL VALLE,Coyoacán,,NA,NA
+id-4225916191,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,965ZWX,NEGRO,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Avenida Coyoacán,av Félix Cuevas ,parroquia ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225919260,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,V97AVB,ROJO METALICO,MITSUBISHI,MITSUBISHI,DESCONOCIDO,Avenida Presidente Masaryk,Torcuato tassos,spencer,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225913695,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,3V3KH,NEGRO/ROJO,OTRA,ITALIKA,DESCONOCIDO,5 de mayo,bolivar ,eje central,CENTRO,Cuauhtémoc,,NA,NA
+id-4225920310,45046,2023,NA,Estacionar en lugares prohíbidos,30,II,-----,CUARTO,585WFS,BLANCO,TOYOTA,TOYOTA,AVANZA 4 PUERTAS,Avenida Gran Canal,oriente 167,villa de Ayala ,LA ESMERALDA,Gustavo A. Madero,,NA,NA
+id-4225917792,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,3G9MP,NEGRO/ROJO,OTRA,ITALIKA,TRABAJO,ARQUIMEDES ,HOMERO,EJERCITO NACIONAL ,POLANCO  IV SECC,Miguel Hidalgo,,NA,NA
+id-4225919253,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,42F817,ROJO,TOYOTA,TOYOTA,PRIUS,Avenida Presidente Masaryk,MARIANO ESCOBEDO,SPENCER,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920433,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,G23AFT,GRIS,CHEVROLET,CHEVROLET,EQUINOX,Avenida Rubén Darío,reforma ,chivatito ,POLANCO I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225915651,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,3984066,GRIS,OTRA,VENTO,DESCONOCIDO,Jesús Carranza ,eje 2,gorostiza , MORELOS,Cuauhtémoc,,NA,NA
+id-4225921089,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,A90ASR,BLANCO,SUZUKI,SUZUKI,IGNIS,Calle Tochtli,centeotl ,rey maxtla ,SANTA LUCÍA,Azcapotzalco,,NA,NA
+id-4225915682,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,CE3989626,BLANCO,HONDA,HONDA,DESCONOCIDO,roa barcenas ,bolivar ,eje central ,OBRERA ,Cuauhtémoc,,NA,NA
+id-4225918928,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,R61AMZ,NEGRO,CHEVROLET,CHEVROLET,DESCONOCIDO,Paseo de la Reforma,constituyentes ,.,LOMAS ALTAS,Miguel Hidalgo,,NA,NA
+id-4225920860,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,850ZAJ,VINO,CHEVROLET,CHEVROLET,TRAX,Eje 3 Poniente,Félix Cuevas,parroquia,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225914364,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,PBV2910,CAFE,CHRYSLER,DODGE,NEON,Avenida Jardín ,Encarnación Ortiz ,San Francisco Xocotitla ,PBLO SAN MIGUEL AMANTLA,Azcapotzalco,,NA,NA
+id-4225915828,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,757UYB,GRIS PLATA,CHEVROLET,CHEVROLET,TRAKCER,Avenida Canal de Miramontes,Miramontes ,calzada de el hueso ,REAL DEL SUR,Tlalpan,,NA,NA
+id-4225915491,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,5K8GP,BLANCO,HONDA,HONDA,TRABAJO,euclides,Mariano Escobedo ,homero,ANZURES,Miguel Hidalgo,,NA,NA
+id-4225919642,45046,2023,NA,Estacionar en lugares prohíbidos,30,V,-----,CUARTO,H17BFN,GRIS PLATA,MERCEDES BENZ,MERCEDES BENZ,DESCONOCIDO,Avenida Presidente Masaryk,MARIANO ESCOBEDO ,C. ENRIQUE WALLON,POLANCO 1 SECC,Miguel Hidalgo,,NA,NA
+id-4225917303,45046,2023,NA,Estacionar en lugares prohíbidos,30,I,-----,TERCERO,640XFU,GRIS,OTRA,RENAULT,SANDERO,Calle Tochtli,tochtli,ferrocarriles ,SAN FRANCISCO TETECALA,Azcapotzalco,,NA,NA
+id-4225917341,45046,2023,NA,Estacionar en lugares prohíbidos,30,XIX,-----,QUINTO,3M3FH,NEGRO,SUZUKI,SUZUKI,DESCONOCIDO,Avenida Juárez,Luis Moya ,dolores ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225917174,45046,2023,NA,Estacionar en lugares prohíbidos,30,IV,-----,CUARTO,E96BHT,BLANCO,VOLKSWAGEN,VOLKSWAGEN,POLO,auditorio,chivatito,reforma,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920259,45046,2023,NA,Estacionar en lugares prohíbidos,30,VI,-----,SEXTO,NMX3186,NEGRO,CHEVROLET,CHEVROLET,CHEVY C2 SEDAN,Paseo de la Reforma,Anatole france,campo marte,BOSQUE DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225920921,45046,2023,NA,Abandono de vehículo en la vía pública,35,I,-----,PRIMERO,TR3987696,AZUL,CHRYSLER,DODGE,RAM 1500,San Isauro,Santa Ursula,San hermilo,PEDREGAL DE SANTA URSULA,Coyoacán,,NA,NA
+id-4225913688,45046,2023,NA,Abandono de vehículo en la vía pública,35,I,-----,PRIMERO,SF3975550,CAFE,CHRYSLER,FIAT,DESCONOCIDO,LINO,AVENIDA CONSTITUYENTES ,BIZNAGA,LAS PALMAS,Álvaro Obregón,,NA,NA
+id-4225918959,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,C,PRIMERO,IV3981817,ROJO,OTRA,VELOCI,SinValor,PERIFERICO ,CALLE 1 ,EMILIANO ZAPATA ,SAN JOSE DE LA ESCALERA,Gustavo A. Madero,,NA,NA
+id-4225920341,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4M4CT,ROJO,OTRA,VENTO,PISTA,JESÚS DEL MONTE ,CASTORENA ,CERRADA LÓPEZ MATEOS ,CUAJIMALPA ,Cuajimalpa de Morelos,,NA,NA
+id-4225916696,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,G61XS,BLANCO,OTRA,YAMAHA,DESCONOCIDO,Loreto fabela ,Av. 508,Av. 510,2 SEC. DE SAN JUAN DE ARAGON,Gustavo A. Madero,,NA,NA
+id-4225914005,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,8F8HK,BLANCO,OTRA,YAMAHA,DESCONOCIDO,Mineros Metalúrgicos ,Calle 8,Calle 10 ,TRABAJADORES DEL HIERRO,Azcapotzalco,,NA,NA
+id-4225920051,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7915C5,AZUL,OTRA,ITALIKA,DESCONOCIDO,eje 4,vizcainas,plaza mayor,ALFONSO  ORTIZ TIRADO,Iztapalapa,,NA,NA
+id-4225920822,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,2J4GU,GRIS,OTRA,ITALIKA,DESCONOCIDO,Avenida Taxqueña,Hidalgo,Ejido,SAN FRANCISCO CULHUACÁN,Coyoacán,,NA,NA
+id-4225914531,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,LA3964253,AZUL,OTRA,ITALIKA,DESCONOCIDO,campo fortuna nacional,campo Corinto,campo palizada, SAN ANTONIO,Azcapotzalco,,NA,NA
+id-4225920372,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,4M3ES,GRIS,OTRA,BAJAJ,PISTA,Guillermo villasana,Díaz Ordaz,Luis Beriot,ADOLFO   LOPEZ   MATEOS,Venustiano Carranza,,NA,NA
+id-4225918560,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3U6GC,VERDE,OTRA,ITALIKA,DESCONOCIDO,COYUYA ,ZUMATE,..,SANTA ANITA ,Iztacalco,,NA,NA
+id-4225916139,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,6S7HS,ANARANJADO,OTRA,KTM,DEPORTIVA,Paraiso,Av Ermita Iztapalapa ,xx,Xalpa,Iztapalapa,,NA,NA
+id-4225914906,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,7002C,VINO,SUZUKI,SUZUKI,PISTA,Francisco del paso y troncoso,Francisco del paso y troncoso,Valentín Gómez farias, CAMPAMENTO 2 DE OCTUBRE,Iztacalco,,NA,NA
+id-4225918911,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,8S2PH,AMARILLO,HONDA,HONDA,DESCONOCIDO,Salomón González Blanco ,Ernesto P Orochorto ,Javier barros Sierra ,ADOLFO   LOPEZ   MATEOS,Venustiano Carranza,,NA,NA
+id-4225916146,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,7814E9,VERDE,OTRA,YAMAHA,DESCONOCIDO,ferrocarril de cintura,héroes de nacozari,PENITENCIARIA, MORELOS,Venustiano Carranza,,NA,NA
+id-4225919833,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,6381C7,NEGRO,OTRA,ITALIKA,DESCONOCIDO,San Sebastián ,granjas ,acalotenco ,SAN SEBASTIÁN TECOLOXTITLA,Azcapotzalco,,NA,NA
+id-4225914500,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,5C1NU,NEGRO,HONDA,HONDA,DESCONOCIDO,jarceria,mecánicos ,mineros , MORELOS,Venustiano Carranza,,NA,NA
+id-4225916283,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,2K4HT,BLANCO,OTRA,ITALIKA,DESCONOCIDO,Ferrocarril de cintura,héroes de nacozari,PENITENCIARIA, MORELOS,Venustiano Carranza,,NA,NA
+id-4225915125,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,9K8NX,AZUL,OTRA,ITALIKA,DESCONOCIDO,Calle 17,Calle 28,Calle 24,PROHOGAR,Azcapotzalco,,NA,NA
+id-4225920730,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,G47DX,NEGRO,OTRA,ITALIKA,DESCONOCIDO,fray Servando Teresa de Mier ,retorno 25,Iglesias Calderón ,JARDÍN BALBUENA,Venustiano Carranza,,NA,NA
+id-4225915286,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,94KFT4,ROSA,HONDA,HONDA,DESCONOCIDO,ferrocarril de cintura ,me anicos ,xx, MORELOS,Venustiano Carranza,,NA,NA
+id-4225916856,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3856A9,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,ESTADO DE MÉXICO,MORELOS,TECNOLOGICO,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225916764,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3856A9,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,ESTADO DE MÉXICO,MORELOS,TECNOLOGICO,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225918812,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,8S2PH,AMARILLO,HONDA,HONDA,DESCONOCIDO,Salomón González Blanco ,Ernesto P Orochorto ,Javier barros Sierra ,ADOLFO   LOPEZ   MATEOS,Venustiano Carranza,,NA,NA
+id-4225919000,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,2S9DS,BLANCO,HONDA,HONDA,HONDA,cuicacali,nezahualpiyi,xichipilli,AMP ESTRELLA DEL SUR,Iztapalapa,,NA,NA
+id-4225916382,45046,2023,NA,Incumplir con disposiciones de seguridad,37,II,B,PRIMERO,B36AEY,NEGRO,BMW,BMW,DESCONOCIDO,Avenida Explanada,.,.,LOMAS DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225916597,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4K6EM,BLANCO,OTRA,ITALIKA,DESCONOCIDO,la viga ,eje 6 ,desconcido ,EL RETOÑO,Iztapalapa,,NA,NA
+id-4225919543,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7X4ZW,NEGRO,OTRA,ITALIKA,DESCONOCIDO,río Churubusco ,Benito coquet ,unión ,ADOLFO   LOPEZ   MATEOS,Venustiano Carranza,,NA,NA
+id-4225916351,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,G63UN,NEGRO/ROJO,HONDA,HONDA,TRABAJO,CENTENARIO ,PAPANOA ,TEMIZ ,BOSQUES DE TARANGO,Álvaro Obregón,,NA,NA
+id-4225917143,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,9G1ZX,GRIS,OTRA,VENTO,DESCONOCIDO,granjas ,almacenes ,Santo tomas ,BARRIO SANTO TOMAS,Azcapotzalco,,NA,NA
+id-4225920693,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,9L8DY,NEGRO/ROJO,OTRA,ITALIKA,TRABAJO,av. san Lorenzo ,rueda del Pastor ,..,EL MANTO,Iztapalapa,,NA,NA
+id-4225918034,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7L3EG,ROJO,OTRA,VELOCI,TRABAJO,casas aleman ,tlapalam,San Jerónimo ,PBLO SANTA ANA TLACOTENCO,Milpa Alta,,NA,NA
+id-4225916757,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,G71ZY,NEGRO,OTRA,KEEWAY,CHOPPER,churubusco ,sur 118,TEZONTLE , GABRIEL RAMOS MILLAN,Iztacalco,,NA,NA
+id-4225917617,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,XO3970445,ROJO,OTRA,ITALIKA,DESCONOCIDO,avenida 5 de mayo ,segunda cerrada de 5 de mayo ,segúnda cerrada del bosque,SAN LUIS TLAXIALTEMALCO,Xochimilco,,NA,NA
+id-4225917808,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,1L3ED,AZUL,OTRA,ITALIKA,SinValor,Isabel la católica ,cadiz,cadiz,ALAMOS,Benito Juárez,,NA,NA
+id-4225915217,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,W77LB,NEGRO,OTRA,ITALIKA,DESCONOCIDO,ferrocarril,decintura,mecanicos, MORELOS,Venustiano Carranza,,NA,NA
+id-4225914654,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4B3RU,NEGRO,OTRA,YAMAHA,DESCONOCIDO,ferrocarril de cintura ,panaderos ,peluqueros , MORELOS,Venustiano Carranza,,NA,NA
+id-4225921430,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3069F8,GRIS,OTRA,ITALIKA,DESCONOCIDO,av. 608,av. 604,av. 606,3RA SECC DE SAN JUAN DE ARAGON,Gustavo A. Madero,,NA,NA
+id-4225916375,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,6714C5,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Av. Talisman ,Norte 72-A,Norte 72,AMPLIACIÓN SAN JUAN DE ARAGÓN,Gustavo A. Madero,,NA,NA
+id-4225914272,45046,2023,NA,Incumplir con disposiciones de seguridad,37,II,B,PRIMERO,M21AUH,GRIS,CHEVROLET,CHEVROLET,EQUINOX,calzada Vallejo ,Antonio valeriano ,río consulado ,LA RAZA,Azcapotzalco,,NA,NA
+id-4225916184,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,5G7ZN,GRIS,OTRA,YAMAHA,DESCONOCIDO,circunvalacion,Joaquín herrera,nacional, MORELOS,Venustiano Carranza,,NA,NA
+id-4225920549,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7X4JX,NEGRO,OTRA,VENTO,DESCONOCIDO,CONGRESO DE LA UNIÓN ,DIAGONAL DE CIRCUNVALACION,JARDINEROS , MORELOS,Venustiano Carranza,,NA,NA
+id-4225920297,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,5953C3,AMARILLO,OTRA,BAJAJ,SinValor,PUERTO MAZATLAN ,SANTA TERESA ,MOCTEZUMA,LA PASTORA,Gustavo A. Madero,,NA,NA
+id-4225915064,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,AN3976422,BLANCO,OTRA,BAJAJ,SinValor,jarceria,panaderos,peluqueros, MORELOS,Venustiano Carranza,,NA,NA
+id-4225914470,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,86KGE4,GRIS,OTRA,ITALIKA,DESCONOCIDO,carpintería ,mecánicos ,labradores , MORELOS,Venustiano Carranza,,NA,NA
+id-4225916580,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4K6EM,BLANCO,OTRA,ITALIKA,DESCONOCIDO,la viga ,eje 6 ,desconcido ,EL RETOÑO,Iztapalapa,,NA,NA
+id-4225918669,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,6K9MX,BLANCO,OTRA,YAMAHA,DOBLE PROPOSITO,XOCHIMILCO ,calle 7,calle 6,AGRICOLA   PANTITLAN,Iztacalco,,NA,NA
+id-4225914777,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225920044,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,25KGP7,NEGRO,OTRA,ITALIKA,DESCONOCIDO,av mexico,eje 6,no proporciona, ART 4 CONST.  SANTA MARIA AZTAHUACAN,Iztapalapa,,NA,NA
+id-4225920228,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,5D7SN,NEGRO,OTRA,BAJAJ,SinValor,AV 604,AV629,AV 631,2 SEC. DE SAN JUAN DE ARAGON,Gustavo A. Madero,,NA,NA
+id-4225917167,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,5F7CH,NEGRO,OTRA,CARABELA,DESCONOCIDO,Eje 1,Santos Dumon ,Economia ,AVIACIÓN CIVIL,Venustiano Carranza,,NA,NA
+id-4225915293,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,Z9AZ3,ROJO,OTRA,ITALIKA,DESCONOCIDO,calle de los toros ,Observatorio ,puerta 75,AMERICA,Miguel Hidalgo,,NA,NA
+id-4225917549,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,97PWK2,NEGRO,OTRA,VENTO,TRABAJO,CARRETERA SAN MATEO SANTA ROSA ,AVENIDA TAMAULIPAS ,ARTEAGA Y SALAZAR ,EL CONTADERO,Cuajimalpa de Morelos,,NA,NA
+id-4225916337,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,6C4YS,NEGRO,OTRA,ITALIKA,TRABAJO,calle 7,XOCHIMILCO calle 6,calle 6,AGRICOLA   PANTITLAN,Iztacalco,,NA,NA
+id-4225918324,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,62DFP2,ROJO,OTRA,VENTO,DESCONOCIDO,avenida 5 de mayo ,segunda cerrada del bosque ,acuexcomac,SAN LUIS TLAXIALTEMALCO,Xochimilco,,NA,NA
+id-4225915774,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,1M2DL,BLANCO,OTRA,ITALIKA,DESCONOCIDO,aztecas ,ocotepec ,orquídea ,LOMAS DE SAN BERANABE,La Magdalena Contreras,,NA,NA
+id-4225914579,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,2M6CB,AZUL,OTRA,ITALIKA,DESCONOCIDO,ORIENTE 116,SUR 159,SUR 118, GABRIEL RAMOS MILLAN,Iztacalco,,NA,NA
+id-4225921225,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7V8SA,BLANCO,OTRA,ITALIKA,DESCONOCIDO,privada de San Francisco ,cruz verde ,.....,BARRIO DE SAN FRANCISCO,La Magdalena Contreras,,NA,NA
+id-4225918416,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,VE3990103,AZUL,OTRA,ITALIKA,DESCONOCIDO,Berriozábal,Nicolas Bravo,Alcocer,ZONA CENTRO,Venustiano Carranza,,NA,NA
+id-4225915361,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,5K2WA,BLANCO/NEGRO,OTRA,BAJAJ,PISTA,canal de MIRAMONTES ,calzada de la virger,santa Ana ,EDUCACION,Coyoacán,,NA,NA
+id-4225914180,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,G31VE,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Calle 12,Calle 17,Calle 19,PROHOGAR,Azcapotzalco,,NA,NA
+id-4225919093,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4741E4,BLANCO,OTRA,VENTO,DESCONOCIDO,EJE UNO ,SANTOS DUMON ,ECONOMIA ,AVIACION  CIVIL,Venustiano Carranza,,NA,NA
+id-4225918218,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,J59CU,NEGRO,OTRA,ITALIKA,SCOOTER,CORCELES ,FERIA ,CERRADA DE CORCELES ,COLINA DEL SUR,Álvaro Obregón,,NA,NA
+id-4225914609,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,31KFP6,GRIS,OTRA,ITALIKA,DESCONOCIDO,ferrocarril de cintura ,panaderos ,peluqueros , MORELOS,Venustiano Carranza,,NA,NA
+id-4225917631,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,1H1WR,VERDE,OTRA,YAMAHA,DESCONOCIDO,FERROCARRIL DE CINTURA ,PANADEROS ,MINEROS , MORELOS,Venustiano Carranza,,NA,NA
+id-4225918119,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,9L5PV,ROJO,OTRA,ITALIKA,DESCONOCIDO,Refinería Corona,Campo lomitas,Campo Moloacán ,SAN ANDRES,Azcapotzalco,,NA,NA
+id-4225921492,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,9L1NP,NEGRO,HONDA,HONDA,DESCONOCIDO,av. 312,av.307,av. 305,NUEVA  ATZACOALCO,Gustavo A. Madero,,NA,NA
+id-4225918867,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,9M9CN,AZUL,OTRA,ITALIKA,DESCONOCIDO,escobilleras ,rojo gomez,eje 5,CENTRAL DE ABASTOS,Iztapalapa,,NA,NA
+id-4225914968,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,1A9PA,VINO,OTRA,ITALIKA,DESCONOCIDO,Puerto alegre ,calzada de la viga ,arqueologos,EL RETOÑO,Iztapalapa,,NA,NA
+id-4225918379,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4017A9,BLANCO/ROJO,OTRA,YAMAHA,DESCONOCIDO,Canautli ,xochiapan ,canacuate ,PEDREGAL DE SANTO  DOMINGO,Coyoacán,,NA,NA
+id-4225915248,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,8M7FC,NEGRO,OTRA,ITALIKA,DESCONOCIDO,CALZADA LA VIGA ,EJE 5 ,JESÚS NOVAZCO,EL TRIUNFO,Iztapalapa,,NA,NA
+id-4225916603,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,9S8DU,NEGRO,OTRA,BAJAJ,SinValor,XOCHIMILCO ,calle6,calle 7,AGRICOLA PANTITLAN ,Iztacalco,,NA,NA
+id-4225920006,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3B3XH,NEGRO,OTRA,ITALIKA,TRABAJO,damiana,macahuite,..,PREDIO EL MOLINO,Iztapalapa,,NA,NA
+id-4225915255,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,83KFW7,BLANCO,HONDA,HONDA,DESCONOCIDO,ferrocarril de cintura,mecanicos ,xx, MORELOS,Venustiano Carranza,,NA,NA
+id-4225915880,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3G7MD,NEGRO,OTRA,ITALIKA,DESCONOCIDO,aztecas ,ocotepec ,orquídea ,LOMAS DE SAN BERANABE,La Magdalena Contreras,,NA,NA
+id-4225919710,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,9U8NW,ROJO,OTRA,YAMAHA,FZ6,av mexico,eje 6,no proporciona, ART 4 CONST.  SANTA MARIA AZTAHUACAN,Iztapalapa,,NA,NA
+id-4225917297,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,1V1BV,AZUL,OTRA,JIAJUE,TRABAJO,Madero,la viga,zapotla,BARRIO ZAPOTLA,Iztacalco,,NA,NA
+id-4225918362,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,0386E6,BLANCO,OTRA,BAJAJ,SinValor,XOCHIMILCO ,calle 7,calle 6,AGRICOLA PANTITLAN,Iztacalco,,NA,NA
+id-4225916955,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,26YLV3,NEGRO,OTRA,ITALIKA,WS SPORT,CORCELES ,1CERRADA DE CORCELES ,PREGONERO ,COLINAS DEL SUR,Álvaro Obregón,,NA,NA
+id-4225917761,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,2881A8,VINO,OTRA,VENTO,DESCONOCIDO,Sauses ,Ahuehuetes ,Jacarandas ,PASTEROS,Azcapotzalco,,NA,NA
+id-4225918249,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7261F4,GRIS,OTRA,ITALIKA,VS90,constitucion de Apatzingán ,Jose arreces,no,TEPALCATES ,Iztapalapa,,NA,NA
+id-4225917846,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,TU3987143,BLANCO,OTRA,ITALIKA,DESCONOCIDO,avenida San Jerónimo ,antoña ,.....,SAN JERONIMO  LIDICE,La Magdalena Contreras,,NA,NA
+id-4225918089,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7T4SR,NEGRO/ROJO,OTRA,ITALIKA,TRABAJO,morelos,Jose Lopez Portillo ,..,CONSEJO AGRARISTA,Iztapalapa,,NA,NA
+id-4225915781,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,5H2MT,AZUL,OTRA,DINAMO,SCOOTER,boulevard puerto aereo,Ignacio Zaragoza,avenida 4,COL. IGNACIO ZARAGOZA,Venustiano Carranza,,NA,NA
+id-4225917419,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,9U2FZ,VINO,OTRA,ITALIKA,DESCONOCIDO,Las Torres ,Pipila,xx,LOMAS DE ZARAGOZA,Iztapalapa,,NA,NA
+id-4225918232,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7J4AK,NEGRO,OTRA,ITALIKA,DESCONOCIDO,5 de mayo,arboledas ,cerrada doce de octubre ,AMP ARBOLEDAS,Milpa Alta,,NA,NA
+id-4225915545,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,LA3964254,AZUL,OTRA,CARABELA,DESCONOCIDO,AV AQUILES SERDAN,INVIERNO,OTOÑO,ANGEL SIMBRON,Azcapotzalco,,NA,NA
+id-4225919741,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,AG3986725,AZUL,OTRA,BAJAJ,TRABAJO,Antonio maseo,Av. Jalisco,Av. Revolucion,TACUBAYA,Miguel Hidalgo,,NA,NA
+id-4225917327,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,IV3981912,GRIS,OTRA,BAJAJ,SinValor,ESTADO DE MÉXICO ,TECNOLOGICO ,ADOLFO LÓPEZ MATEOS ,CHALMA DE GUADALUPE,Gustavo A. Madero,,NA,NA
+id-4225917853,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4E4DF,NEGRO,OTRA,ITALIKA,DESCONOCIDO,reforma agraria,tierra y libertad ,Cuitláhuac ,SAN JOSE,Tláhuac,,NA,NA
+id-4225917532,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,6220B8,AZUL,OTRA,ITALIKA,DESCONOCIDO,paseo de la reforma,rocallosas ,apalaches,LOMAS DE CHAPULTEPEC 1 SECC,Miguel Hidalgo,,NA,NA
+id-4225920181,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,6C3LK,ROJO,OTRA,VENTO,PANTHER,av Luis Hidalgo monroy,matamoros,lomita,AMP BARRIO SAN MIGUEL,Iztapalapa,,NA,NA
+id-4225919963,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7D3ET,NEGRO,OTRA,DINAMO,PISTA,boulevard nuevo leon,Campeche ,cerrada de boulevard ,BARR SANTA CRUZ,Milpa Alta,,NA,NA
+id-4225915576,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,58KGF5,ROJO,OTRA,ITALIKA,DESCONOCIDO,Calzada Ignacio Zaragoza ,Calle 23,Boulevard Puerto Aéreo ,Santa Cruz Aviacion,Venustiano Carranza,,NA,NA
+id-4225916436,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,5F5MH,BLANCO/NEGRO,OTRA,YAMAHA,DESCONOCIDO,Av.Guelatao ,Camineros,No,CHINAMPAC  DE JUAREZ,Iztapalapa,,NA,NA
+id-4225916047,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,6F1WK,BLANCO,OTRA,YAMAHA,DESCONOCIDO,Av. Revolucion,San Carlos,Altavista,TLACOPAC,Álvaro Obregón,,NA,NA
+id-4225918461,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,1A7DC,BLANCO/NEGRO,HONDA,HONDA,TRABAJO,AVENIDA SANTA LUCIA ,HIDALGO ,SERENATA ,COLINAS DEL SUR,Álvaro Obregón,,NA,NA
+id-4225917891,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,1G2HD,AZUL,OTRA,ITALIKA,DESCONOCIDO,FERROCARRIL DE CINTURA ,PANADEROS ,MINEROS , MORELOS,Venustiano Carranza,,NA,NA
+id-4225915163,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,5H4BM,NEGRO,OTRA,VENTO,DESCONOCIDO,Antonio delfin madrigal ,eje 10,av del iman ,PEDREGAL DE SANTO DOMINGO ,Coyoacán,,NA,NA
+id-4225918591,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,5475G2,NEGRO,OTRA,HOLDEN,COMMODORE,Av Yucatán ,Everardo González ,xx,AMPL SANTA MARTHA ACATITLA,Iztapalapa,,NA,NA
+id-4225916658,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3856A9,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,ESTADO DE MÉXICO,MORELOS,TECNOLOGICO,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225917884,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,9G9PW,AZUL,OTRA,ITALIKA,DESCONOCIDO,eje 10 sur ,Aurora Reza ,papalotl ,PUEBLO DE LOS REYES,Coyoacán,,NA,NA
+id-4225917129,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7G9PL,NEGRO,OTRA,KURAZAI,SCOOTER,REFORMA AGRARIA ,TIERRA Y LIBERTAD ,CUITLÁHUAC ,SAN JOSE,Tláhuac,,NA,NA
+id-4225918775,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,5W9JT,VINO,OTRA,ITALIKA,DESCONOCIDO,PERIFERICO ,CALLE 1,EMILIANO ZAPATA ,SAN JOSE DE LA ESCALERA,Gustavo A. Madero,,NA,NA
+id-4225916498,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7970G4,NEGRO/ROJO,OTRA,VENTO,SinValor,AVENIDA LA BRECH,GAVIOTAS ,BARRANCA,TLALPEXCO,Gustavo A. Madero,,NA,NA
+id-4225920204,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,8L9WJ,BLANCO,OTRA,VENTO,DESCONOCIDO,Gran Sur ,av. del iman ,----,PEDREGAL DE CARRASCO,Coyoacán,,NA,NA
+id-4225919574,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4B7KK,ROJO,HONDA,HONDA,DESCONOCIDO,paseo de las palmas,montañas calizas,cerro de Maica ,LOMAS DE CHAPULTEPEC 1 SECC,Miguel Hidalgo,,NA,NA
+id-4225915118,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3L9HF,ANARANJADO,HONDA,HONDA,DESCONOCIDO,jarceria,mecanico,mineros, MORELOS,Venustiano Carranza,,NA,NA
+id-4225916405,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,9U1FX,NEGRO,OTRA,ITALIKA,SinValor,XOCHIMILCO ,calle 7,calle 6,AGRICOLA   PANTITLAN,Iztacalco,,NA,NA
+id-4225914883,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225914685,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,LA3964253,AZUL,OTRA,ITALIKA,DESCONOCIDO,campo fortuna nacional,campo Corinto,campo palizada, SAN ANTONIO,Azcapotzalco,,NA,NA
+id-4225919765,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,8342C4,GRIS,OTRA,VENTO,SCOOTER,vialidad del 5,eje 5 sur,ENBACES VACIOS ,CENTRAL DE ABASTO,Iztapalapa,,NA,NA
+id-4225919475,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,TU3987144,NEGRO/ROJO,OTRA,VENTO,DESCONOCIDO,Ermitaño,Meyuca,Huayatla ,ERMITAÑO,La Magdalena Contreras,,NA,NA
+id-4225914852,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225919390,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,2L6WR,ROJO,OTRA,ITALIKA,DESCONOCIDO,EJE 1 NORTE,ORIENTE 144,..,MOCTEZUM 2A. SECCION,Venustiano Carranza,,NA,NA
+id-4225915637,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,LA3964255,ROJO,OTRA,VELOCI,SinValor,MANUEL BAUCHE,MORELOS,ABRAHAM SÁNCHEZ,SAN PEDRO XALPA,Azcapotzalco,,NA,NA
+id-4225921041,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,36DFN2,GRIS,OTRA,VENTO,DESCONOCIDO,PANADEROS ,FERROCARRIL DE CINTURA ,CARPINTERIA , MORELOS,Venustiano Carranza,,NA,NA
+id-4225915354,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,0138A5,NEGRO,OTRA,YAMAHA,DESCONOCIDO,AGUSTÍN YAÑEZ,SUR 101 A,SUR 101,ESCUADRÓN 201,Iztapalapa,,NA,NA
+id-4225917754,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,2K2NU,ROJO,OTRA,VENTO,DESCONOCIDO,ESTADO DE MÉXICO ,LÓPEZ MATEOS ,TECNOLIGICO,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225917211,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,3H4GH,ANARANJADO,OTRA,ITALIKA,DESCONOCIDO,Tizimin ,Izamal ,Yucaltepen ,PEDREGAL DE SAN NICOLÁS,Tlalpan,,NA,NA
+id-4225916108,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,6F1WK,BLANCO,OTRA,YAMAHA,DESCONOCIDO,Av. Revolucion,San Carlos,Altavista,TLACOPAC,Álvaro Obregón,,NA,NA
+id-4225916702,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,A,PRIMERO,9K4PD,AZUL,OTRA,ITALIKA,DESCONOCIDO,Delfín Madrigal ,Dalias,Jecuite ,PEDREGAL DE SANTO DOMINGO ,Coyoacán,,NA,NA
+id-4225913916,45046,2023,NA,Incumplir con disposiciones de seguridad,37,II,B,PRIMERO,F06BJY,AZUL,VOLKSWAGEN,VOLKSWAGEN,POLO 5 PUERTAS,Eje 5 Sur,central de abastos ,canal de Río Churubusco ,CENTRAL DE ABASTOS,Iztapalapa,,NA,NA
+id-8226001764,45046,2023,NA,Incumplir con disposiciones de seguridad,37,II,B,PRIMERO,1280169,ROJO,NA,DESCONOCIDO,DESCONOCIDO,AV. PASEO DE LA REFORMA,RIO ELBA,RIO RODANO,JUAREZ,Cuauhtémoc,,NA,NA
+id-4225917716,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4E4DF,NEGRO,OTRA,ITALIKA,DESCONOCIDO,reforma agraria,tierra y libertad ,Cuitláhuac ,SAN JOSE,Tláhuac,,NA,NA
+id-4225914807,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225914302,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,4303E7,NEGRO,HONDA,HONDA,DESCONOCIDO,labradores ,ferrocarril de cintura ,mecánicos, MORELOS,Venustiano Carranza,,NA,NA
+id-4225914760,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225914814,45046,2023,NA,Incumplir con disposiciones de seguridad,37,III,D,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225915842,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,PWW534B,BLANCO,OTRA,LINCOLN,MKX AWD,Avenida Santa Fe,Enrique del moral,.,SANTA FE,Cuajimalpa de Morelos,,NA,NA
+id-4225919918,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,H64BJH,GRIS,NA,DESCONOCIDO,DESCONOCIDO,periferico,santa. teresa,sn,AMP JARDINES DEL PEDREGAL,Álvaro Obregón,,NA,NA
+id-4225915422,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,Z47AXJ,GRIS,TOYOTA,TOYOTA MOTOR MANUFACTURING,HI LUX 2 PUERTAS,Ángel Albino Corzo,Eduardo Molina ,oriente 78 A,GERTRUDIS SÁNCHEZ 3A SECCIÓN,Gustavo A. Madero,,NA,NA
+id-4225918096,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,NXS3465,VINO,CHEVROLET,CHEVROLET,CHEVY C2 SEDAN,patriotirsmo,Goya ,.,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225916269,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,U76BKU,BLANCO,FORD,FORD,TRANSIT CONNECT USPS,Avenida Isabel La Católica,Lorenzo Boturini ,.,OBRERA,Cuauhtémoc,,NA,NA
+id-4225921522,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,Y18AYB,CAFE,NISSAN,NISSAN,TIIDA 1.8 S,Calzada de Tlalpan,espliego ,nezahualpilli,XOTEPINGO,Coyoacán,,NA,NA
+id-4225921423,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,Y18AYB,CAFE,NISSAN,NISSAN,TIIDA 1.8 S,Calzada de Tlalpan,espliego ,nezahualpilli,XOTEPINGO,Coyoacán,,NA,NA
+id-4225917051,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,L50BFG,GRIS,NISSAN,NISSAN,MARCH,Eje 6 Sur,Uxmal ,.,VÉRTIZ NARVARTE,Benito Juárez,,NA,NA
+id-4225917068,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,L50BFG,GRIS,NISSAN,NISSAN,MARCH,Eje 6 Sur,Uxmal ,.,VÉRTIZ NARVARTE,Benito Juárez,,NA,NA
+id-4225919123,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,NKC5161,NEGRO,FORD,FORD,ESCAPE AWD,Calzada de Tlalpan,fresno,.,EL RELOJ,Coyoacán,,NA,NA
+id-4225915866,45046,2023,NA,Poner en riesgo la integridad de usuarios de la vía,38,II,E,CUARTO,J80BBY,BLANCO,CHEVROLET,CHEVROLET,AVEO,Avenida Patriotismo,calle 3,.,SAN PEDRO DE LOS PINOS,Benito Juárez,,NA,NA
+id-4225914128,45046,2023,NA,Incumplir con el equipamiento para circular,43,III,-----,PRIMERO,PDN3453,NEGRO,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Avenida Congreso de la Unión,.,.,TRES ESTRELLAS,Gustavo A. Madero,,NA,NA
+id-4225914135,45046,2023,NA,Incumplir con el equipamiento para circular,43,III,-----,PRIMERO,PDN3453,NEGRO,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Avenida Congreso de la Unión,.,.,TRES ESTRELLAS,Gustavo A. Madero,,NA,NA
+id-4225920631,45046,2023,NA,Incumplir con el equipamiento para circular,43,III,-----,PRIMERO,NHU4512,ROJO,SEAT,SEAT,LEON,circuito ,bruselas,sn,DEL CARMEN,Coyoacán,,NA,NA
+id-4225918980,45046,2023,NA,Incumplir con el equipamiento para circular,43,VII,-----,SEGUNDO,NFW3284,GRIS PLATA,SEAT,SEAT,IBIZA,paseo de la reforma ,rivera de cupia,reforma 2600,REAL DE LAS LOMAS,Miguel Hidalgo,,NA,NA
+id-4225913886,45046,2023,NA,Incumplir con el equipamiento para circular,43,III,-----,PRIMERO,PBP9055,PLATA,KIA,KIA,RIO,Calzada de los Gallos,paseo de jacarandas ,calzada de los gallos,AGRICULTURA,Miguel Hidalgo,,NA,NA
+id-4225919413,45046,2023,NA,Incumplir con el equipamiento para circular,43,VII,-----,SEGUNDO,LLR190A,NEGRO,SEAT,SEAT,LEON,Paseo de la Reforma,RIVERA DE CUPIA,CONSTITUYENTES,LOMAS ALTAS,Miguel Hidalgo,,NA,NA
+id-4225917099,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,IV3981911,NEGRO,OTRA,DINAMO,SinValor,CUITLÁHUAC ,1 H,NORTE 1 G,GUADALUPE VICTORIA,Gustavo A. Madero,,NA,NA
+id-4225921263,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,NYV6417,PLATA,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Calzada de Tlalpan,Textitlan,Fresno ,Santa Úrsula Coapa,Coyoacán,,NA,NA
+id-4225916733,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,3856A9,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,ESTADO DE MÉXICO,MORELOS,TECNOLOGICO,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225913893,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,PBP9055,PLATA,KIA,KIA,RIO,Calzada de los Gallos,paseo de jacarandas ,calzada de los gallos,AGRICULTURA,Miguel Hidalgo,,NA,NA
+id-4225919017,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,IV3981817,ROJO,OTRA,VELOCI,SinValor,PERIFERICO ,CALLE 1,EMILIANO ZAPATA ,SAN JOSE DE LA ESCALERA,Gustavo A. Madero,,NA,NA
+id-4225920037,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,8H1LT,AZUL CIELO,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,Poussin ,av patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225920174,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,8H1LT,AZUL CIELO,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,Poussin ,av patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225920655,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,W70ACS,ROJO,CHRYSLER,CHRYSLER,TOWN & COUNTRY,Viaducto Río de la Piedad,calle 57 ,calle 63 ,PUEBLA,Venustiano Carranza,,NA,NA
+id-4225920853,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,2J4GU,GRIS,OTRA,ITALIKA,DESCONOCIDO,Avenida Taxqueña,Hidalgo,Ejido,SAN FRANCISCO CULHUACÁN,Coyoacán,,NA,NA
+id-4225918294,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,7261F4,GRIS,OTRA,ITALIKA,VS90,constitucion de Apatzingán ,Jose arreces,no,TEPALCATES ,Iztapalapa,,NA,NA
+id-4225916450,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,5F5MH,BLANCO/NEGRO,OTRA,YAMAHA,DESCONOCIDO,Av.Guelatao ,Camineros,No,CHINAMPAC  DE JUAREZ,Iztapalapa,,NA,NA
+id-4225916085,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,8H1LT,AZUL,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,poussin,patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225916535,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,7970G4,NEGRO/ROJO,OTRA,VENTO,SinValor,AVENIDA LA BRECH,GAVIOTAS ,BARRANCA,TLALPEXCO,Gustavo A. Madero,,NA,NA
+id-4225916771,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,3856A9,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,ESTADO DE MÉXICO,MORELOS,TECNOLOGICO,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225917181,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,7G9PL,NEGRO,OTRA,KURAZAI,SCOOTER,REFORMA AGRARIA ,TIERRAE Y LIBERTAD ,CUITLÁHUAC ,SAN JOSE,Tláhuac,,NA,NA
+id-4225915477,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,RBM908A,VERDE,CHRYSLER,FIAT,DESCONOCIDO,Calle Oriente 95,oye 95,Eduardo Molina ,NUEVA TENOCHTITLÁN,Gustavo A. Madero,,NA,NA
+id-4225921362,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,170XKH,CREMA,CHRYSLER,JEEP,DESCONOCIDO,Diagonal San Antonio,albein,mitla,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225915446,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,HDJ376A,GRIS,CHEVROLET,CHEVROLET,ASTRA,Metrobus 1,Chihuahua ,Yucatán ,ROMA NORTE,Cuauhtémoc,,NA,NA
+id-4225914258,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,G31VE,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Calle 12,Calle 17,Calle 19,PROHOGAR,Azcapotzalco,,NA,NA
+id-4225921447,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,48RB1D,VERDE,VOLVO,VOLVO,DESCONOCIDO,Viaducto Presidente Miguel Alemán,Ohio ,Dakota ,ESCANDÓN I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225918393,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,VE3990103,AZUL,OTRA,ITALIKA,DESCONOCIDO,Berriozábal ,Nicolas Bravo Vidal Alcocer,Vidal Alcocer,ZONA CENTRO,Venustiano Carranza,,NA,NA
+id-4225918645,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,IV3981915,NEGRO,OTRA,HERO,TURISMO,EDUARDO MOLINA ,ORIENTE 157 ,ORIENTE 159,SALVADOR DIAS MIRON,Gustavo A. Madero,,NA,NA
+id-4225919086,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,PEU6739,ROJO METALICO,MAZDA,MAZDA,CX-5,Cuahutemoc ,ángel urraza ,universidad ,NARVARTE PONIENTE,Benito Juárez,,NA,NA
+id-4225914326,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,4303E7,NEGRO,HONDA,HONDA,DESCONOCIDO,labradores ,ferrocarril de cintura ,mecánicos, MORELOS,Venustiano Carranza,,NA,NA
+id-4225920846,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,C78AMG,GRIS,VOLKSWAGEN,VOLKSWAGEN,GOL 4 PUERTAS,casa del obrero mundial ,providencia ,Adolfo Prieto ,COL DEL VALLE CENTRO,Benito Juárez,,NA,NA
+id-4225920389,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,4M4CT,ROJO,OTRA,VENTO,PISTA,JESÚS DEL MONTE ,CASTORENA ,CERRADA LÓPEZ MATEOS ,CUAJIMALPA ,Cuajimalpa de Morelos,,NA,NA
+id-4225916894,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,3856A9,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,ESTADO DE MÉXICO,MORELOS,TECNOLOGICO,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225916573,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,PZJ711D,BLANCO,GMC,GMC,YUKON DENALI 1500 AWD,Avenida Tamaulipas,prolongación paseo de la reforma ,avenida santa fe ,CONTADERO,Cuajimalpa de Morelos,,NA,NA
+id-4225921065,45046,2023,NA,No tener licencia o permiso,44,I,B,PRIMERO,736SAL,AZUL,CHEVROLET,CHEVROLET,CAVALIER,Diagonal San Antonio,mitla,monte alban,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225915187,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975551,AZUL,OTRA,ITALIKA,DESCONOCIDO,PUERTO MEXICO ,OCAMPO ,MORELOS ,ZENTLAPATL,Cuajimalpa de Morelos,,NA,NA
+id-4225918041,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7L3EG,ROJO,OTRA,VELOCI,TRABAJO,casas aleman ,tlapalam,San Jerónimo ,PBLO SANTA ANA TLACOTENCO,Milpa Alta,,NA,NA
+id-4225918485,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SA3971868,AZUL,OTRA,ITALIKA,DESCONOCIDO,Manuel Cañas,Bugambilias ,No, DESARROLLO URBANO QUETZALCOATL ,Iztapalapa,,NA,NA
+id-4225917266,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,374WRM,ROJO,OTRA,PORSCHE,DESCONOCIDO,Paseo de la Reforma,constituyentes,rivera de cupia ,LOMAS ALTAS,Miguel Hidalgo,,NA,NA
+id-4225915538,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TR3987690,NEGRO/ROJO,OTRA,ITALIKA,DESCONOCIDO,Eje 3,Recreo,Reyes,BARRIO LOS REYES,Iztacalco,,NA,NA
+id-4225918829,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,W57RN,BLANCO,OTRA,ITALIKA,DESCONOCIDO,eje central ,salvador ,Uruguay ,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225921355,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,PI3981346,BLANCO METALICO,OTRA,YAMAHA,DESCONOCIDO,periferico,alfa ,omega,CASA BLANCA,Iztapalapa,,NA,NA
+id-4225918409,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SA3985187,NEGRO,OTRA,ITALIKA,DESCONOCIDO,periférico ,San isidro,tecamachalco,REFORMA SOCIAL,Miguel Hidalgo,,NA,NA
+id-4225917235,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,IV3981912,GRIS,OTRA,BAJAJ,SinValor,ESTADO DE MÉXICO ,TECNOLOGICO ,ADOLFO LÓPEZ MATEOS ,CHALMA DE GUADALUPE,Gustavo A. Madero,,NA,NA
+id-4225917938,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,2881A8,VINO,OTRA,VENTO,DESCONOCIDO,Sauces ,Ahuhuetes,Jacarandas ,PASTEROS,Azcapotzalco,,NA,NA
+id-4225918683,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,FR3984079,BLANCO,OTRA,ITALIKA,DESCONOCIDO,gounod,Ernesto ELORDUY ,eje central,EXHIPODROMO DE PERALBILLO,Cuauhtémoc,,NA,NA
+id-4225917013,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980504,ROSA,OTRA,VENTO,SinValor,eje central ,correspondencia ,correspondencia ,POSTAL,Benito Juárez,,NA,NA
+id-4225918454,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980509,NEGRO/ROJO,OTRA,ITALIKA,DESCONOCIDO,municipio libre ,las torres,desconcido ,AMPLIACIÓN SINATEL,Iztapalapa,,NA,NA
+id-4225913633,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988811,NEGRO,OTRA,ITALIKA,DESCONOCIDO,peluqueros ,Eduardo Molina ,huichapan,MICHOACANA,Venustiano Carranza,,NA,NA
+id-4225915088,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976423,ROSA,HONDA,HONDA,DESCONOCIDO,mecanicos,ferrocarril de cintura,mineros, MORELOS,Venustiano Carranza,,NA,NA
+id-4225921249,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,NYV6417,PLATA,VOLKSWAGEN,VOLKSWAGEN,VENTO 4 PUERTAS,Calzada de Tlalpan,Textitlan,Fresno ,Santa Úrsula Coapa,Coyoacán,,NA,NA
+id-4225916627,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9S8DU,NEGRO,OTRA,BAJAJ,SinValor,XOCHIMILCO ,calle6,calle 7,AGRICOLA PANTITLAN ,Iztacalco,,NA,NA
+id-4225918331,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980508,NEGRO,OTRA,HERO,DOBLE PROPOSITO,municipio libre ,Andrés Molina enriquez ,desconcido ,AMPLIACIÓN SINATEL,Iztapalapa,,NA,NA
+id-4225915026,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976422,BLANCO,OTRA,BAJAJ,SinValor,jarceria,panaderos,peluqueria, MORELOS,Venustiano Carranza,,NA,NA
+id-4225914715,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TR3987684,VINO,OTRA,ITALIKA,DESCONOCIDO,Valentín Gómez farias,Francisco del paso y troncoso,Valentín Gómez farias, CAMPAMENTO 2 DE OCTUBRE,Iztacalco,,NA,NA
+id-4225915804,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5H2MT,AZUL,OTRA,DINAMO,SCOOTER,boulevard puerto aereo,Ignacio Zaragoza,avenida 4,COL. IGNACIO ZARAGOZA,Venustiano Carranza,,NA,NA
+id-4225917112,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,PI3981341,AZUL,OTRA,ITALIKA,TRABAJO,bilbao,Montes cipreses,..,SAN JUAN XALPA,Iztapalapa,,NA,NA
+id-4225919826,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988834,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Av 508,av 529,AV 531,1 SECCION DE SAN JUAN DE ARAGN,Gustavo A. Madero,,NA,NA
+id-4225915323,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,PI3981333,GRIS,OTRA,ITALIKA,DESCONOCIDO,periférico ,bella Vista ,xx,BELLA VISTA,Iztapalapa,,NA,NA
+id-4225915583,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,58KGF5,ROJO,OTRA,ITALIKA,DESCONOCIDO,Calzada Ignacio Zaragoza ,Calle 23,Boulevard Puerto Aéreo ,Santa Cruz Aviacion,Venustiano Carranza,,NA,NA
+id-4225918904,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975561,NEGRO,OTRA,BAJAJ,TRABAJO,CARRETERA TOLUCA MEXICO ,CAMINO DEL LLANO ,CAMINO AL CHINACO ,CRUZ BLANCA,Cuajimalpa de Morelos,,NA,NA
+id-4225914517,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5C1NU,NEGRO,HONDA,HONDA,DESCONOCIDO,jarceria,mecánicos ,mineros , MORELOS,Venustiano Carranza,,NA,NA
+id-4225917006,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CU3986155,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Poniente 134,Norte 35 ,Norte 45 ,INDUSTRIAL VALLEJO,Azcapotzalco,,NA,NA
+id-4225916207,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980498,AZUL,OTRA,VENTO,SinValor,presidentes ,tripoli,tripoli ,PORTALES  NORTE,Benito Juárez,,NA,NA
+id-4225920754,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9L8DY,NEGRO/ROJO,OTRA,ITALIKA,TRABAJO,av.san lorenzo,rueda del pastor,..,EL MANTO,Iztapalapa,,NA,NA
+id-4225920242,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975564,NEGRO,OTRA,ITALIKA,TRABAJO,BARRO SIERRA ,VASCO DE QUIROGA ,BERNARDO QUINTANA ,ZEDEC SANTA FE,Álvaro Obregón,,NA,NA
+id-4225914913,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7002C,VINO,SUZUKI,SUZUKI,PISTA,Francisco del paso y troncoso,Francisco del paso y troncoso,Valentín Gómez farias, CAMPAMENTO 2 DE OCTUBRE,Iztacalco,,NA,NA
+id-4225915408,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975552,NEGRO,OTRA,ITALIKA,DESCONOCIDO,JACARANDAS ,LAUREL ,MADRAÑO,EL EBANO,Cuajimalpa de Morelos,,NA,NA
+id-4225914593,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,2M6CB,AZUL,OTRA,ITALIKA,DESCONOCIDO,ORIENTE 116,SUR 159,ORIENTE 118, GABRIEL RAMOS MILLAN,Iztacalco,,NA,NA
+id-4225917686,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SJ3989223,NEGRO,OTRA,ITALIKA,TRABAJO,THIERS,LA FALLETE,GUTEMBERG,ANZURES,Miguel Hidalgo,,NA,NA
+id-4225921515,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9L1NP,NEGRO,HONDA,HONDA,DESCONOCIDO,av. 312,av. 307,av. 305,3RA SECC DE SAN JUAN DE ARAGON,Gustavo A. Madero,,NA,NA
+id-4225918270,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CA3985040,AMARILLO,OTRA,ITALIKA,DESCONOCIDO,XOCHIMILCO ,calle 7,calle 6,AGRICOLA  PANTITLAN ,Iztacalco,,NA,NA
+id-4225915347,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,0138A5,NEGRO,OTRA,YAMAHA,DESCONOCIDO,AGUSTIN YAÑES ,SUR 101 A,SUR 101,ESCUADRON  201,Iztapalapa,,NA,NA
+id-4225915194,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CA3985031,GRIS,HONDA,HONDA,DESCONOCIDO,CALZADA LA VIGA ,PORTO ALEGRE ,RELOJEROS ,EL RETOÑO,Iztapalapa,,NA,NA
+id-4225917952,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,IV3981914,VERDE,OTRA,VENTO,SinValor,MARIANO SALAS,GUADALUPE VICTORIA ,MIRAMON,MARTÍN CARRERA,Gustavo A. Madero,,NA,NA
+id-4225917433,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,1V1BV,AZUL,OTRA,JIAJUE,TRABAJO,Madero,La viga,zapotla,BARRIO ZAPOTLA,Iztacalco,,NA,NA
+id-4225919154,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,IV3981817,ROJO,OTRA,VELOCI,SinValor,PERIFERICO ,CALLE 1,EMILIANO ZAPATA ,SAN JOSE DE LA ESC,Gustavo A. Madero,,NA,NA
+id-4225918522,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,0386E6,BLANCO,OTRA,BAJAJ,SinValor,XOCHIMILCO ,calle 7,calle 6,AGRICOLA PANTITLAN,Iztacalco,,NA,NA
+id-4225920785,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,G47DX,NEGRO,OTRA,ITALIKA,DESCONOCIDO,fray Servando Teresa de Mier ,retorno 25 ,iglesias Calderón ,MERCED BALBUENA,Venustiano Carranza,,NA,NA
+id-4225917150,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9G1ZX,GRIS,OTRA,VENTO,DESCONOCIDO,granjas ,almacenes ,Santo tomas ,BARRIO SANTO TOMAS,Azcapotzalco,,NA,NA
+id-4225914487,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,86KGE4,GRIS,OTRA,ITALIKA,DESCONOCIDO,carpintería ,mecánicos ,labradores , MORELOS,Venustiano Carranza,,NA,NA
+id-4225915156,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9K8NX,AZUL,OTRA,ITALIKA,DESCONOCIDO,Calle 17,Calle 28,Calle 24,PROHOGAR,Azcapotzalco,,NA,NA
+id-4225916511,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CA3985036,AZUL,OTRA,TORINO,SCOOTER,XOCHIMILCO ,calle 7,calle6,AGRICOLA   PANTITLAN,Iztacalco,,NA,NA
+id-4225914753,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TR3987685,AZUL,OTRA,ITALIKA,DESCONOCIDO,Plutarco Elías calles,Plutarco Elías calles,playa icacos,REFORMA IZTACCIHUATL NORTE,Iztacalco,,NA,NA
+id-4225914630,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TR3987683,ANARANJADO,OTRA,VENTO,TRABAJO,Francisco del paso y troncoso,Francisco del paso y troncoso,GENARO vazquez, CAMPAMENTO 2 DE OCTUBRE,Iztacalco,,NA,NA
+id-4225914661,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4B3RU,NEGRO,OTRA,YAMAHA,DESCONOCIDO,ferrocarril de cintura ,panaderos ,peluqueros , MORELOS,Venustiano Carranza,,NA,NA
+id-4225917983,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,1G2HD,AZUL,OTRA,ITALIKA,DESCONOCIDO,FERROCARRIL DE CINTURA ,PANADEROS ,MINEROS , MORELOS,Venustiano Carranza,,NA,NA
+id-4225916719,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CU3986154,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Poniente 146,Norte 59 ,Norte 45,INDUSTRIAL VALLEJO,Azcapotzalco,,NA,NA
+id-4225916832,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SA3971866,AZUL,OTRA,KURAZAI,TRABAJO,Octavio Paz ,ahuehuetes ,No,SOLIDARIDAD,Iztapalapa,,NA,NA
+id-4225913923,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,PBP9055,PLATA,KIA,KIA,RIO,Calzada de los Gallos,paseo de jacarandas ,calzada de los gallos,AGRICULTURA,Miguel Hidalgo,,NA,NA
+id-4225918287,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,J59CU,NEGRO,OTRA,ITALIKA,SCOOTER,CORCELES ,FERIA ,CERRADA DE CORCELES ,COLINA DEL SUR,Álvaro Obregón,,NA,NA
+id-4225919581,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980511,AZUL,OTRA,ITALIKA,SinValor,eje 3 ,eje 6,desconcido ,EL SIFON,Iztapalapa,,NA,NA
+id-4225918706,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,6K9MX,BLANCO,OTRA,YAMAHA,DOBLE PROPOSITO,XOCHIMILCO ,calle 7,calle 6,AGRICOLA   PANTITLAN,Iztacalco,,NA,NA
+id-4225916344,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,6C4YS,NEGRO,OTRA,ITALIKA,TRABAJO,calle 7,XOCHIMILCO calle 6,calle 6,AGRICOLA   PANTITLAN,Iztacalco,,NA,NA
+id-4225915668,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,PI3981338,NEGRO,OTRA,VENTO,DESCONOCIDO,heberto casttillo,la turba,canal de chalco,LA DRAGA,Tláhuac,,NA,NA
+id-4225919697,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988832,BLANCO,OTRA,ITALIKA,DESCONOCIDO,JARCERIA ,PANADEROS ,PELUQUEROS , MORELOS,Venustiano Carranza,,NA,NA
+id-4225920396,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986727,VERDE,OTRA,ITALIKA,DESCONOCIDO,Manolito,Glaciar,--,OLIVAR DE LOS PADRES,Álvaro Obregón,,NA,NA
+id-4225920143,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SA3985190,NEGRO,OTRA,ITALIKA,DESCONOCIDO,paseo de la reforma,castillo de winsor,plan de barrancos,LOMAS DE REFORMA,Miguel Hidalgo,,NA,NA
+id-4225915262,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,83KFW7,BLANCO,HONDA,HONDA,DESCONOCIDO,ferrocarril de cintura ,mecanicos ,xx, MORELOS,Venustiano Carranza,,NA,NA
+id-4225914388,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976413,GRIS,OTRA,ITALIKA,DESCONOCIDO,la viga,Rodolfo usigli,Atancio g. zaravia,HEROES CHURUBUSCO,Iztapalapa,,NA,NA
+id-4225920884,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,676XZA,NEGRO,NISSAN,NISSAN,MARCH,Viaducto Río Becerra,minería ,11 de abril ,ESCANDÓN I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225914081,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,8F8HK,BLANCO,OTRA,YAMAHA,DESCONOCIDO,Mineros Metalúrgicos ,Calle 8,Calle 10 ,TRABAJADORES DE HIERRO,Azcapotzalco,,NA,NA
+id-4225919215,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,1A7DC,BLANCO/NEGRO,HONDA,HONDA,TRABAJO,AVENIDA SANTA LUCIA ,SERENATA ,HIDALGO ,COLINA  DEL SUR,Álvaro Obregón,,NA,NA
+id-4225914449,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976414,BLANCO,HONDA,HONDA,DESCONOCIDO,alfarería 15,panaderos ,mineros , MORELOS,Venustiano Carranza,,NA,NA
+id-4225919437,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976441,AMARILLO,OTRA,ITALIKA,DESCONOCIDO,río Churubusco ,Benito coquet,unión ,ADOLFO   LOPEZ   MATEOS,Venustiano Carranza,,NA,NA
+id-4225920020,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975562,GRIS,OTRA,ITALIKA,TRABAJO,PRIVADA DE TAMARINDOS ,AVENIDA TAMARINDOS ,PRIVADA DE TAMARINDOS ,BOSQUE DE LA REFORMA,Cuajimalpa de Morelos,,NA,NA
+id-4225918850,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984443,AZUL,OTRA,ITALIKA,DESCONOCIDO,fuentes brotantes ,cantera,Miguel Hidalgo ,FUENTES BROTANTES,Tlalpan,,NA,NA
+id-4225919819,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7X4ZW,NEGRO,OTRA,ITALIKA,DESCONOCIDO,río Churubusco ,Benito coquet ,unión ,ADOLFO LÓPEZ MATEOS,Venustiano Carranza,,NA,NA
+id-4225914876,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976421,ROJO,OTRA,VENTO,DESCONOCIDO,oriente 187,avenida te,añil,GRANJAS MEXICO,Iztacalco,,NA,NA
+id-4225914708,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LN3942580,AMARILLO,OTRA,ITALIKA,TX200,fernandina ,haguadulco ,fernandina ,LOS   VOLCANES,Tlalpan,,NA,NA
+id-4225914920,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CU3983289,VERDE,OTRA,DINAMO,TRABAJO,Antonio delfin madrigal ,eje 10,-----,PEDREGAL DE SANTO DOMINGO ,Coyoacán,,NA,NA
+id-4225920662,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,W70ACS,ROJO,CHRYSLER,CHRYSLER,TOWN & COUNTRY,Viaducto Río de la Piedad,calle 57 ,calle 63 ,PUEBLA,Venustiano Carranza,,NA,NA
+id-4225914586,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TR3987682,MORADO,HONDA,HONDA,DESCONOCIDO,Guillermo prieto,Guillermo prieto,José María mata, CAMPAMENTO 2 DE OCTUBRE,Iztacalco,,NA,NA
+id-4225916412,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,B36AEY,NEGRO,BMW,BMW,DESCONOCIDO,Avenida Explanada,.,.,LOMAS DE CHAPULTEPEC I SECCIÓN,Miguel Hidalgo,,NA,NA
+id-4225919840,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,6381C7,NEGRO,OTRA,ITALIKA,DESCONOCIDO,San Sebastián ,granjas ,acalotenco ,SAN SEBASTIÁN TECOLOXTITLA,Azcapotzalco,,NA,NA
+id-4225918188,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988826,AZUL,OTRA,CARABELA,DESCONOCIDO,Imprenta,Mineros ,Av. Circunvalacion , MORELOS,Venustiano Carranza,,NA,NA
+id-4225921195,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4017A9,BLANCO/ROJO,OTRA,YAMAHA,DESCONOCIDO,Canautli ,xochiapan ,canacuate ,PEDREGAL DE SANTO  DOMINGO,Coyoacán,,NA,NA
+id-4225916399,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986719,CAFE/NEGRO,OTRA,VENTO,DESCONOCIDO,La paz,Miguel Ángel de Quevedo,Insurgentes,CHIMALISTAC,Álvaro Obregón,,NA,NA
+id-4225920082,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TR3987695,NEGRO,HONDA,HONDA,DESCONOCIDO,congreso de union,Álvaro Obregón ,congreso de la union,SANTA ANITA,Iztacalco,,NA,NA
+id-4225916962,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,26YLV3,NEGRO,OTRA,ITALIKA,WS SPORT,CORCELES ,1CERRADA DE CORCELES ,PREGONERO ,COLINAS DEL SUR,Álvaro Obregón,,NA,NA
+id-4225920891,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,C78AMG,GRIS,VOLKSWAGEN,VOLKSWAGEN,GOL 4 PUERTAS,casa del obrero mundial ,providencia ,Adolfo Prieto ,COL DEL VALLE CENTRO,Benito Juárez,,NA,NA
+id-4225918539,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,IV3981915,NEGRO,OTRA,HERO,TURISMO,EDUARDO MOLINA,ORIENTE 157,ORIENTE 159,SALVADOR DIAS MIRON,Gustavo A. Madero,,NA,NA
+id-4225916863,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984429,GRIS/NEGRO,OTRA,VENTO,DESCONOCIDO,División del Norte ,Acoxpa,puente,PRADOS COAPA  2 SECC,Tlalpan,,NA,NA
+id-4225919116,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CE3989642,ANARANJADO,OTRA,ITALIKA,DESCONOCIDO,eje central ,independencia ,Juárez ,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225914555,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976417,ROJO,OTRA,ITALIKA,DESCONOCIDO,cintura,panaderos ,peluqueros, MORELOS,Venustiano Carranza,,NA,NA
+id-4225918638,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5475G2,NEGRO,OTRA,HOLDEN,COMMODORE,Av Yucatán ,Everardo González ,xx,AMPL SANTA MARTHA ACATITLA,Iztapalapa,,NA,NA
+id-4225916016,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988816,AZUL,OTRA,ITALIKA,DESCONOCIDO,Jarceria ,Mecanicos ,Alfareria , MORELOS,Venustiano Carranza,,NA,NA
+id-4225921478,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,3069F8,GRIS,OTRA,ITALIKA,DESCONOCIDO,av  608,av. 604,av. 606,3RA SECC DE SAN JUAN DE ARAGON,Gustavo A. Madero,,NA,NA
+id-4225915002,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9484D6,BLANCO,OTRA,ITALIKA,DESCONOCIDO,Francisco sosa,Melchor ocampo,pino,BARRIO SANTA CATARINA,Coyoacán,,NA,NA
+id-4225917778,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,1H1WR,VERDE,OTRA,YAMAHA,DESCONOCIDO,FERROCARRIL DE CINTURA ,PANADEROS ,MINEROS , MORELOS,Venustiano Carranza,,NA,NA
+id-4225915675,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LA3964255,ROJO,OTRA,VELOCI,SinValor,MANUEL BAUCHE,MORELOS,ABRAHAM SÁNCHEZ,SAN PEDRO XALPA,Azcapotzalco,,NA,NA
+id-4225917280,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986720,AMARILLO,OTRA,ITALIKA,DESCONOCIDO,Las aguilas,Raims,--,VILLAVERDUM,Álvaro Obregón,,NA,NA
+id-4225917648,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984435,AMARILLO,OTRA,VENTO,DESCONOCIDO,San Raul ,San Matías,San Pedro,PEDREGAL DE SANTA ÚRSULA,Coyoacán,,NA,NA
+id-4225919611,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TU3987144,NEGRO/ROJO,OTRA,VENTO,DESCONOCIDO,Ermitaño ,Meyuca,Huayatla ,ERMITAÑO,La Magdalena Contreras,,NA,NA
+id-4225916115,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,8H1LT,AZUL,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,poussin,patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225915835,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,3G7MD,NEGRO,OTRA,ITALIKA,DESCONOCIDO,aztecas ,ocotepec ,orquídea ,LOMAS DE SAN BERANABE,La Magdalena Contreras,,NA,NA
+id-4225915279,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,Z9AZ3,ROJO,OTRA,ITALIKA,DESCONOCIDO,av. delos toros,Observatorio ,poniente 75,AMERICA,Miguel Hidalgo,,NA,NA
+id-4225916948,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984431,NEGRO,OTRA,VELOCI,TRABAJO,Miramontes,El carcamo,xx,NARCISO MENDOZA,Tlalpan,,NA,NA
+id-4225917020,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,IV3981911,NEGRO,OTRA,DINAMO,SinValor,CUITLÁHUAC ,1 H,NORTE 1 G,GUADALUPE VICTORIA,Gustavo A. Madero,,NA,NA
+id-4225916221,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975554,NEGRO,OTRA,ITALIKA,TRABAJO,CAMINO AL OLIVO ,LOMA DE LA PALMA ,NOCHE DE PAZ,LOMAS DE VISTA HERMOSA,Cuajimalpa de Morelos,,NA,NA
+id-4225921485,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CE3989646,NEGRO,OTRA,ITALIKA,DESCONOCIDO,tacuba,Filomeno mata ,Allende ,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225919376,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988830,BLANCO,OTRA,YAMAHA,DESCONOCIDO,EJE UNO NORTE ,CERRAJERÍA ,JARDINERÍA , MORELOS,Venustiano Carranza,,NA,NA
+id-4225919529,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988831,NEGRO,OTRA,ITALIKA,DESCONOCIDO,FERROCARRIL DE CINTURA ,DIAGONAL DE CIRCUNVALACION,PINTORES , MORELOS,Venustiano Carranza,,NA,NA
+id-4225919307,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986724,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Arteaga,Frontera,arbol,SAN ANGEL,Álvaro Obregón,,NA,NA
+id-4225921539,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9L1NP,NEGRO,HONDA,HONDA,DESCONOCIDO,av. 312,av. 307,av. 305,3RA SECC DE SAN JUAN DE ARAGON,Gustavo A. Madero,,NA,NA
+id-4225916900,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,3856A9,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,ESTADO DE MÉXICO,MORELOS,TECNOLOGICO,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225919246,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4741E4,BLANCO,OTRA,VENTO,DESCONOCIDO,EJE UNO ,SANTOS DUMON ,ECONOMIA ,AVIACIÓN CIVIL,Venustiano Carranza,,NA,NA
+id-4225915712,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3982592,VINO,OTRA,ITALIKA,DESCONOCIDO,eje 1,anfora,Eduardo Molina,PENITENCIARIA,Venustiano Carranza,,NA,NA
+id-4225916610,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SA3971865,NEGRO,OTRA,YAMAHA,DESCONOCIDO,República Federal ,Emilio Madero,No,SANTA MARTHA ACATITLA SUR,Iztapalapa,,NA,NA
+id-4225917471,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,XO3970445,ROJO,OTRA,ITALIKA,DESCONOCIDO,avenida 5 de Mayo ,segunda cerrada de 5 de mayo,segunda cerrada del bosque,San Luis Tlaxialtemalco,Xochimilco,,NA,NA
+id-4225920457,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,IV3981919,NEGRO,OTRA,VENTO,DESCONOCIDO,VALLEJO,PONIENTE 112,PONIENTE 116,PANAMERICANA,Gustavo A. Madero,,NA,NA
+id-4225920013,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980512,NEGRO,OTRA,VENTO,DESCONOCIDO,eje 6 ,economista ,desconcido ,PBLO SAN JUANICO NEXTIPAC,Iztapalapa,,NA,NA
+id-4225916467,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980500,NEGRO,OTRA,VENTO,DESCONOCIDO,eje 5 sur,providencia ,desconcido ,DEL VALLE CENTRO ,Benito Juárez,,NA,NA
+id-4225920211,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,25KGP7,ROJO,OTRA,ITALIKA,TRABAJO,av mexico,eje 6,no proporciona, ART 4 CONST.  SANTA MARIA AZTAHUACAN,Iztapalapa,,NA,NA
+id-4225918720,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,FL3979488,NEGRO/ROJO,OTRA,ITALIKA,DESCONOCIDO,Conamup,av Principal ,xx,LOMAS DE ZARAGOZA,Iztapalapa,,NA,NA
+id-4225916795,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,G71ZY,NEGRO,OTRA,KEEWAY,CHOPPER,churubusco ,sur 118,TEZONTLE , GABRIEL RAMOS MILLAN,Iztacalco,,NA,NA
+id-4225920112,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975563,AZUL,OTRA,ITALIKA,WS SPORT,BARRO SIERRA ,VASCO DE QUIROGA ,BERNARDO QUINTANA ,ZEDEC SANTA FE,Álvaro Obregón,,NA,NA
+id-4225918430,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988827,ROJO,OTRA,VENTO,DESCONOCIDO,Canal del Norte ,Marmoleria ,Rotograbados,MOCTEZUMA ,Venustiano Carranza,,NA,NA
+id-4225918874,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9M9CN,AZUL,OTRA,ITALIKA,DESCONOCIDO,escobilleras ,rojo gomez,eje 5,CENTRAL DE ABASTOS,Iztapalapa,,NA,NA
+id-4225918898,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5W9JT,ROJO,OTRA,ITALIKA,DESCONOCIDO,PERIFERICO ,CALLE 1 ,EMILIANO ZAPATA ,SAN JOSE DE LA ESCALERA,Gustavo A. Madero,,NA,NA
+id-4225919949,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4R2BG,BLANCO,OTRA,ITALIKA,SCOOTER,vialidad de los cincos,eje 5,ENBACES VACIOS ,CENTRAL DE ABASTO,Iztapalapa,,NA,NA
+id-4225917488,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7G9PL,NEGRO,OTRA,KURAZAI,SCOOTER,REFORMA AGRARIA ,TIERRA Y LIBERTAD ,CUITLÁHUAC ,SAN JOSE ,Tláhuac,,NA,NA
+id-4225918423,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,62DFP2,ROJO,OTRA,VENTO,DESCONOCIDO,avenida 5 de mayo ,segunda cerrada del bosque,acuexcomac ,SAN LUIS TLAXIALTEMALCO,Xochimilco,,NA,NA
+id-4225917136,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984434,AZUL,OTRA,ITALIKA,SCOOTER,Xochiapan ,Ahuejote ,Canautli ,PEDREGAL DE SANTO DOMINGO ,Coyoacán,,NA,NA
+id-4225920358,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5953C3,AMARILLO,OTRA,BAJAJ,SinValor,PUERTO MAZATLAN ,SANTA TERESA,MONTEZUMA,LA PASTORA,Gustavo A. Madero,,NA,NA
+id-4225916481,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5F5MH,BLANCO/NEGRO,OTRA,YAMAHA,DESCONOCIDO,Av.Guelatao ,Camineros,No,CHINAMPAC  DE JUAREZ,Iztapalapa,,NA,NA
+id-4225914890,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225919956,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,8L9WJ,BLANCO,OTRA,VENTO,DESCONOCIDO,Gran Sur ,av. del iman ,----,PEDREGAL DE CARRASCO ,Coyoacán,,NA,NA
+id-4225915224,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,W77LB,NEGRO,OTRA,ITALIKA,DESCONOCIDO,ferrocarril,decintura ,mecanicos, MORELOS,Venustiano Carranza,,NA,NA
+id-4225915811,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SA3971862,AMARILLO,OTRA,ITALIKA,DESCONOCIDO,Periferico ,Guadalupe Magaña,Revolución Social,UNIDAD HAB. VICENTE GUERRERO ,Iztapalapa,,NA,NA
+id-4225915965,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988815,VERDE,OTRA,YAMAHA,DESCONOCIDO,Jarceria ,Plomeros ,Labradores , MORELOS,Venustiano Carranza,,NA,NA
+id-4225915507,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SA3985182,GRIS,OTRA,ITALIKA,DESCONOCIDO,paseo de las palmas,monte livano,tarahumara,LOMAS DE CHAPULTEPEC 1 SECC,Miguel Hidalgo,,NA,NA
+id-4225916474,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,6714C5,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Av. Talisman,Norte 72-A,Norte 72,AMPLIACIÓN SAN JUAN DE ARAGÓN,Gustavo A. Madero,,NA,NA
+id-4225918355,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986721,AMARILLO,OTRA,ITALIKA,DESCONOCIDO,Chicago,Dallas,Del parque,NAPOLES,Benito Juárez,,NA,NA
+id-4225916870,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3982599,AZUL,OTRA,ITALIKA,DESCONOCIDO,avenida 14,calle 47,calle 45,COL. IGNACIO ZARAGOZA,Venustiano Carranza,,NA,NA
+id-4225915378,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5K2WA,BLANCO/NEGRO,OTRA,BAJAJ,PISTA,canal de MIRAMONTES ,calzada de la virger,santa Ana ,EDUCACION,Coyoacán,,NA,NA
+id-4225921119,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,36DFN2,NEGRO,OTRA,VENTO,DESCONOCIDO,PANADEROS ,FERROCARRIL DE CINTURA ,CARPINTERIA , MORELOS,Venustiano Carranza,,NA,NA
+id-4225919444,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CU3986158,NEGRO,OTRA,YAMAHA,DESCONOCIDO,Victor Hernández ,Gustavo Jiménez ,Federico Dávalos ,PRESIDENTE MADERO,Azcapotzalco,,NA,NA
+id-4225918553,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,0386E6,BLANCO,OTRA,BAJAJ,SinValor,XOCHIMILCO ,calle 7,calle 6,AGRICOLA PANTITLAN,Iztacalco,,NA,NA
+id-4225915149,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,3L9HF,ANARANJADO,HONDA,HONDA,DESCONOCIDO,jarceria,mecanicos,mineros, MORELOS,Venustiano Carranza,,NA,NA
+id-4225916245,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988818,ROSA,HONDA,HONDA,DESCONOCIDO,Gran Canal ,Canal de San Juan ,Av 510,1º SECCION DE SAN JUAN DE ARAGÓN,Gustavo A. Madero,,NA,NA
+id-4225917440,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988823,ANARANJADO,OTRA,VENTO,DESCONOCIDO,Av. 503,Av. 510,Av. 505,1º SECCION DE SAN JUAN DE ARAGÓN,Gustavo A. Madero,,NA,NA
+id-4225914845,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225917976,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3990101,ROJO,HONDA,HONDA,DESCONOCIDO,congreso de la unión,FRAY servando,oriente 30,MERCED BALBUENA,Venustiano Carranza,,NA,NA
+id-4225921126,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7V8SA,BLANCO,OTRA,ITALIKA,DESCONOCIDO,privada de San Francisco ,cruz verde ,.....,BARRIO DE SAN FRANCISCO,La Magdalena Contreras,,NA,NA
+id-4225915514,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3982591,NEGRO,OTRA,ITALIKA,DESCONOCIDO,avenida 8,calle 43,calle 45,COL. IGNACIO ZARAGOZA,Venustiano Carranza,,NA,NA
+id-4225919536,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986725,AZUL,OTRA,BAJAJ,TRABAJO,Antonio maseo,Av. Jalisco,Av. Revolucion,TACUBAYA,Miguel Hidalgo,,NA,NA
+id-4225916443,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9U1FX,NEGRO,OTRA,ITALIKA,SinValor,XOCHIMILCO ,calle 7,calle 6,AGRICOLA   PANTITLAN,Iztacalco,,NA,NA
+id-4225916238,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SA3971863,GRIS MINERAL,OTRA,VENTO,DESCONOCIDO,Escandon,Plutarco,Transportistas,ALVARO  OBREGON,Iztapalapa,,NA,NA
+id-4225920198,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986726,BLANCO,OTRA,BAJAJ,TRABAJO,Manolito,Glaciar,--,OLIVAR DE LOS PADRES,Álvaro Obregón,,NA,NA
+id-4225918171,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7T4SR,NEGRO/ROJO,OTRA,ITALIKA,TRABAJO,morelos ,Jose Lopez Portillo ,...,CONSEJO AGRARISTA,Iztapalapa,,NA,NA
+id-4225915392,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988813,BLANCO,OTRA,BAJAJ,DOBLE PROPOSITO,diagonal de circunvalacion ,carpinteria ,ferrocarril de cintura , MORELOS,Venustiano Carranza,,NA,NA
+id-4225915415,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,8M7FC,NEGRO,OTRA,ITALIKA,DESCONOCIDO,CALZADA DE LA VIGA ,EJE 5 ,JESÚS NOLAZCO ,EL TRIUNFO,Iztapalapa,,NA,NA
+id-4225917389,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3982600,GRIS,OTRA,VENTO,DESCONOCIDO,eje 2 morelos,Nicolas Bravo,industria, MAGDALENA MIXHUCA,Venustiano Carranza,,NA,NA
+id-4225916306,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,2K4HT,BLANCO,OTRA,ITALIKA,DESCONOCIDO,Ferrocarril de cintura,héroes de nacozari,PENITENCIARIA, MORELOS,Venustiano Carranza,,NA,NA
+id-4225914524,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LA3964253,AZUL,OTRA,ITALIKA,DESCONOCIDO,campo fortuna nacional,campo Corinto,campo palizada, SAN ANTONIO,Azcapotzalco,,NA,NA
+id-4225917914,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9G9PW,AZUL,OTRA,ITALIKA,DESCONOCIDO,eje 10 sur ,Aurora Reza ,papalotl ,PUEBLO DE LOS REYES,Coyoacán,,NA,NA
+id-4225917723,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TU3987143,BLANCO,OTRA,ITALIKA,DESCONOCIDO,avenida San Jerónimo ,antoña ,.....,SAN JERÓNIMO LÍDICE,La Magdalena Contreras,,NA,NA
+id-4225915040,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TR3987687,ROJO,OTRA,ITALIKA,DESCONOCIDO,playa chaca mool,playa chaca mool,playa sol,BARRIO DE SANTIAGO SUR,Iztacalco,,NA,NA
+id-4225916689,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,25589,NEGRO,OTRA,ITALIKA,DESCONOCIDO,plutarco,eje 6 ,desconcido ,NATIVITAS,Benito Juárez,,NA,NA
+id-4225919192,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TL3964964,NEGRO,OTRA,ITALIKA,DS125,avenida Tláhuac ,San Rafael Atlixco ,ejido,San Francisco Tlaltenco Pueblo,Tláhuac,,NA,NA
+id-4225917877,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4E4DF,NEGRO,OTRA,ITALIKA,DESCONOCIDO,reforma agraria,tierra y libertad ,Cuitláhuac ,SAN JOSE,Tláhuac,,NA,NA
+id-4225915699,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,FL3979479,VERDE METALICO,OTRA,ITALIKA,DESCONOCIDO,Francisco I Madero ,Veracruz ,Sasatras ,MIGUEL DE LA MADRID,Iztapalapa,,NA,NA
+id-4225919604,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4B7KK,ROJO,HONDA,HONDA,DESCONOCIDO,paseo de las palmas,montañas calizas,cerro de Maica ,LOMAS DE CHAPULTEPEC 1 SECC,Miguel Hidalgo,,NA,NA
+id-4225920334,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5D7SN,NEGRO,OTRA,BAJAJ,SinValor,AV 604,AV 629,AV 631,SAN JUAN DE ARAGÓN 2A SECCIÓN,Gustavo A. Madero,,NA,NA
+id-4225917693,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,DL694,AMARILLO,VOLKSWAGEN,VOLKSWAGEN,CARIBE,San Sebastián de Aparicio,fray Toribio de venavente ,Eduardo Molina ,VASCO DE QUIROGA,Gustavo A. Madero,,NA,NA
+id-4225921102,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,736SAL,AZUL,CHEVROLET,CHEVROLET,CAVALIER,Diagonal San Antonio,mitla,monte alban,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225915989,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,6F1WK,BLANCO,OTRA,YAMAHA,DESCONOCIDO,Av. Revolucion,San Carlos,Alvista,TLACOPAC,Álvaro Obregón,,NA,NA
+id-4225915897,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975553,GRIS,OTRA,ITALIKA,TRABAJO,CASTORENA ,JESÚS DEL MONTE ,5 CERRADA DE CASTORENA ,CUAJIMALPA CENTRO,Cuajimalpa de Morelos,,NA,NA
+id-4225918256,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980507,BLANCO/ROJO,OTRA,ITALIKA,DESCONOCIDO,municipio libre ,Andrés Molina enriquez ,desconcido ,AMPLIACIÓN SINATEL,Iztapalapa,,NA,NA
+id-4225918997,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986723,ANARANJADO,OTRA,ITALIKA,DESCONOCIDO,Arteaga,Cerrada de frontera,Frontera,SAN ÁNGEL,Álvaro Obregón,,NA,NA
+id-4225915798,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984428,AZUL,SUZUKI,SUZUKI,DESCONOCIDO,Tlalpan ,Rio churubusco ,Nadadores ,CONTRY CLUB,Coyoacán,,NA,NA
+id-4225920075,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,8H1LT,AZUL CIELO,NA,DESCONOCIDO,DESCONOCIDO,Extremadura,Poussin ,av patriotismo ,INSURGENTES MIXCOAC,Benito Juárez,,NA,NA
+id-4225917457,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9U2FZ,VINO,OTRA,ITALIKA,DESCONOCIDO,Las Torres ,Pipila,xx,LOMAS DE ZARAGOZA,Iztapalapa,,NA,NA
+id-4225917518,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,FL3979486,NEGRO/ROJO,OTRA,VENTO,DESCONOCIDO,Av de las Torres ,Juan de la Barrera ,Margarita ,SAN MIGUEL TEOTONGO ,Iztapalapa,,NA,NA
+id-4225918126,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CA3985039,BLANCO,OTRA,VENTO,DESCONOCIDO,eje 5,río churubusco ,STA María la purisima,CENTRAL DE ABASTOS,Iztapalapa,,NA,NA
+id-4225921607,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CE3989647,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Venustiano Carranza ,5 de febrero ,20 de noviembre ,CENTRO,Cuauhtémoc,,NA,NA
+id-4225916924,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LN3942585,BLANCO,HONDA,HONDA,DESCONOCIDO,Cruz Blanca ,KM28 ,cruz blanca ,PABLO SAN MIGUEL TOPILEJO,Tlalpan,,NA,NA
+id-4225914616,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,31KFP6,GRIS,OTRA,ITALIKA,DESCONOCIDO,ferrocarril de cintura ,panaderos ,peluqueros , MORELOS,Venustiano Carranza,,NA,NA
+id-4225915903,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988814,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Ferrocarril de Cintura ,Carpinteria ,Hojalateria , MORELOS,Venustiano Carranza,,NA,NA
+id-4225920068,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,3B3XH,NEGRO,OTRA,ITALIKA,TRABAJO,damiana,macahuite,..,PREDIO EL MOLINO,Iztapalapa,,NA,NA
+id-4225919130,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,J59CU,NEGRO,OTRA,ITALIKA,SCOOTER,AVENIDA SANTA LUCIA ,SERENATA ,HIDALGO ,COLINAS DEL SUR,Álvaro Obregón,,NA,NA
+id-4225918577,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,3U6GC,VERDE,OTRA,ITALIKA,DESCONOCIDO,COYUYA ,ZUMATE,..,SANTA ANITA ,Iztacalco,,NA,NA
+id-4225915385,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LN3942584,AMARILLO,OTRA,ITALIKA,DESCONOCIDO,prolongación a cueducto,carretera a sampablo,MARTIRES de río blanco,HUICHAPAN,Xochimilco,,NA,NA
+id-4225918836,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,FR3984080,VERDE,OTRA,ITALIKA,DESCONOCIDO,RABAUL ,norte 75,GRANJAS ,UN HOGAR PARA CADA TRABAJADOR,Azcapotzalco,,NA,NA
+id-4225915743,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3982593,AZUL,OTRA,ITALIKA,DESCONOCIDO,hacienda y crédito publico,congreso,procuraduría general de justicia,FEDERAL,Venustiano Carranza,,NA,NA
+id-4225915590,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LA3964254,AZUL,OTRA,CARABELA,DESCONOCIDO,AV. AQUILES SERDAN,INVIERNO,OTOÑO,ANGEL SIMBRON,Azcapotzalco,,NA,NA
+id-4225917594,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,97PWK2,NEGRO,OTRA,VENTO,TRABAJO,CARRETERA SAN MATEO SANTA ROSA ,AVENIDA TAMAULIPAS ,ARTEAGA Y SALAZAR ,EL CONTADERO,Cuajimalpa de Morelos,,NA,NA
+id-4225919673,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,8D6DP,NEGRO,OTRA,VENTO,SCOOTER,vialidad de los cincos ,ENBACES VACIOS ,eje 5,CENTRAL DE ABASTOS IZTAPALAPA,Iztapalapa,,NA,NA
+id-4225919734,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TL3964966,NEGRO,OTRA,ITALIKA,DS125,boulevard nuevo leon ,cerrada de boulevard ,Campeche ,BARRIO SANTA MARTHA,Milpa Alta,,NA,NA
+id-4225920815,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976446,VINO,OTRA,BAJAJ,PISTA,Avenida del Taller ,congreso de la unión ,bacerak, MAGDALENA MIXHUCA,Venustiano Carranza,,NA,NA
+id-4225918027,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984438,BLANCO/AZUL,OTRA,ITALIKA,DESCONOCIDO,Pedro Enrique Ureña ,Aurora Reza ,papalotl,PUEBLO DE LOS REYES,Coyoacán,,NA,NA
+id-4225919208,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,5K4HB,ROJO,OTRA,ITALIKA,DESCONOCIDO,Félix cuevas ,Juan Sánchez Ascon,desconcido ,DEL VALLE SUR,Benito Juárez,,NA,NA
+id-4225918737,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988828,VERDE,OTRA,ITALIKA,DESCONOCIDO,Av. 699,Taxímetros ,Av. 608,NARCISO BASSOLS,Gustavo A. Madero,,NA,NA
+id-4225919277,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CE3989643,NEGRO,OTRA,BAJAJ,PISTA,Tamaulipas ,Campeche ,Mexicali ,CONDESA,Cuauhtémoc,,NA,NA
+id-4225915132,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5H4BM,NEGRO,OTRA,VENTO,DESCONOCIDO,Antonio delfin madrigal ,eje 10,av. del iman,PEDREGAL DE SANTO DOMINGO ,Coyoacán,,NA,NA
+id-4225920419,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CA3985051,ROJO,HONDA,HONDA,NAVI 110,churubusco ,oriente 118,TEZONTLE , GABRIEL RAMOS MILLAN,Iztacalco,,NA,NA
+id-4225915767,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986716,ROSA,OTRA,ITALIKA,DESCONOCIDO,Cerrada de San Antonio,San Antonio,--,CIUDAD DE LOS DEPORTES,Benito Juárez,,NA,NA
+id-4225921201,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988837,NEGRO,OTRA,ITALIKA,DESCONOCIDO,CONGRESO DE LA UNIÓN ,SASTRERIA ,IMPRENTA , MORELOS,Venustiano Carranza,,NA,NA
+id-4225918157,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9L5PV,ROJO,OTRA,ITALIKA,DESCONOCIDO,Refinería Corona,Campo lomitas,Campo Moloacán ,SAN ANDRES,Azcapotzalco,,NA,NA
+id-4225920617,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,6C3LK,ROJO,OTRA,VENTO,PHANTOM,Luis Hidalgo monroy ,matamoros ,lomita,AMP SAN MIGUEL,Iztapalapa,,NA,NA
+id-4225916528,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,SF3975556,NEGRO,OTRA,ITALIKA,TRABAJO,CENTENARIO ,PAPANOA ,TEMIZ ,BOSQUES DE TARANGO,Álvaro Obregón,,NA,NA
+id-4225919772,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,8342C4,GRIS,OTRA,VENTO,SCOOTER,vialidad del 5,eje 5 sur,ENBACES VACIOS ,CENTRAL DE ABASTO,Iztapalapa,,NA,NA
+id-4225915729,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3982592,VINO,OTRA,ITALIKA,DESCONOCIDO,eje 1,anfora,Eduardo Molina,PENITENCIARIA,Venustiano Carranza,,NA,NA
+id-4225920136,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,PI3981344,NEGRO/ROJO,HONDA,HONDA,DESCONOCIDO,av. tlahuac,antoquia,viveros,LOMAS ESTRELLA 1A,Iztapalapa,,NA,NA
+id-4225919079,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,8S2PH,AMARILLO,HONDA,HONDA,DESCONOCIDO,Javier barros Sierra ,González Blanco ,Ernesto Orochorto ,ADOLFO   LOPEZ   MATEOS,Venustiano Carranza,,NA,NA
+id-4225914975,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,1A9PA,VINO,OTRA,ITALIKA,DESCONOCIDO,Puerto alegre ,calzada de la viga ,arqueologos,EL RETOÑO,Iztapalapa,,NA,NA
+id-4225914340,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4303E7,NEGRO,HONDA,HONDA,DESCONOCIDO,labradores ,ferrocarril de cintura ,mecánicos, MORELOS,Venustiano Carranza,,NA,NA
+id-4225918508,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986722,GUINDA,OTRA,ITALIKA,DESCONOCIDO,Glaciar,San Pablo,--,OLIVAR DE LOS PADRES,Álvaro Obregón,,NA,NA
+id-4225916788,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9K4PD,AZUL,OTRA,ITALIKA,DESCONOCIDO,Delfín Madrigal ,Dalias,Jecuite ,PEDREGAL DE SANTO DOMINGO ,Coyoacán,,NA,NA
+id-4225920556,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,2S9DS,BLANCO,HONDA,HONDA,DESCONOCIDO,cuacacalli,nezahualpiyi ,arrollo tlalloc,AMP ESTRELLA DEL SUR,Iztapalapa,,NA,NA
+id-4225920488,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4M3ES,GRIS,OTRA,BAJAJ,PISTA,Guillermo villasana ,Díaz Ordaz ,Luis Beriot ,ADOLFO   LOPEZ   MATEOS,Venustiano Carranza,,NA,NA
+id-4225916153,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,6S7HS,ANARANJADO,OTRA,KTM,DEPORTIVA,Paraiso,Av Ermita Iztapalapa ,xx,Xalpa,Iztapalapa,,NA,NA
+id-4225915453,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,HDJ376A,GRIS,CHEVROLET,CHEVROLET,ASTRA,Metrobus 1,Chihuahua ,Yucatán ,ROMA NORTE,Cuauhtémoc,,NA,NA
+id-4225916986,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988821,GRIS,OTRA,BAJAJ,SinValor,Av. 506,Av. 503,Av. 505,1º SECCION DE SAN JUAN DE ARAGÓN,Gustavo A. Madero,,NA,NA
+id-4225917082,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984432,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Tetiz,conkal,Hocaba,PEDREGAL DE SAN NICOLÁS,Tlalpan,,NA,NA
+id-4225920686,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7X4JX,NEGRO,OTRA,VENTO,DESCONOCIDO,CONGRESO DE LA UNIÓN ,DIAGONAL DE CIRCUNVALACION,JARDINEROS , MORELOS,Venustiano Carranza,,NA,NA
+id-4225916825,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980503,ROJO,OTRA,VENTO,DESCONOCIDO,calzada de la viga,técnicos y Manuales ,desconcido , CAMPAMENTO 2 DE OCTUBRE,Iztacalco,,NA,NA
+id-4225916542,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7970G4,NEGRO/ROJO,OTRA,VENTO,SinValor,AVENIDA LA BRECH,GAVIOTAS ,BARRANCA,TLALPEXCO,Gustavo A. Madero,,NA,NA
+id-4225918263,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7J4AK,NEGRO,OTRA,ITALIKA,DESCONOCIDO,5 de mayo,arboledas ,cerrada doce de octubre ,AMP ARBOLEDAS,Milpa Alta,,NA,NA
+id-4225919512,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CA3985046,GRIS,OTRA,ITALIKA,SCOOTER,av principal ,central de abastos ,Lolita Ayala ,CENTRAL DE ABASTO,Iztapalapa,,NA,NA
+id-4225916122,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988817,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Oriente 95 ,Norte 54 A,Norte 54,Ampliación Mártires de Río Blanco,Gustavo A. Madero,,NA,NA
+id-4225916252,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5G7ZN,GRIS,OTRA,YAMAHA,DESCONOCIDO,circunvalacion,Joaquín herrera,nacional, MORELOS,Venustiano Carranza,,NA,NA
+id-4225916160,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7814E9,VERDE,OTRA,YAMAHA,DESCONOCIDO,ferrocarril de cintura,héroes de nacozari,PENITENCIARIA, MORELOS,Venustiano Carranza,,NA,NA
+id-4225919888,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,9U8NW,ROJO,OTRA,YAMAHA,FZ6,av mexico,eje 6,no proporciona, ART 4 CONST.  SANTA MARIA AZTAHUACAN,Iztapalapa,,NA,NA
+id-4225917822,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,2K2NU,ROJO,OTRA,VENTO,DESCONOCIDO,ESTADO DE MÉXICO ,LÓPEZ MATEOS ,TECNOLOGICO ,LOMA LA PALMA,Gustavo A. Madero,,NA,NA
+id-4225914319,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,G31VE,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Calle 12,Calle 17,Calle 19,PROHOGAR,Azcapotzalco,,NA,NA
+id-4225914562,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980488,NEGRO/ROJO,OTRA,ITALIKA,DS150,Pensilvania ,Arizona ,desconcido ,NAPOLES,Benito Juárez,,NA,NA
+id-4225917563,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,6220B8,AZUL,OTRA,ITALIKA,DESCONOCIDO,paseo de la reforma,rocallosas ,apalaches,LOMAS DE CHAPULTEPEC 1 SECC,Miguel Hidalgo,,NA,NA
+id-4225920914,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,2J4GU,GRIS,OTRA,ITALIKA,DESCONOCIDO,Avenida Taxqueña,Hidalgo,Ejido,SAN FRANCISCO CULHUACÁN,Coyoacán,,NA,NA
+id-4225918300,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7261F4,GRIS,OTRA,ITALIKA,VS90,constitucion de Apatzingán ,Jose arreces,no,TEPALCATES ,Iztapalapa,,NA,NA
+id-4225915750,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,1M2DL,BLANCO,OTRA,ITALIKA,DESCONOCIDO,aztecas ,ocotepec ,orquídea ,LOMAS DE SAN BERNABE,La Magdalena Contreras,,NA,NA
+id-4225920402,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,4M4CT,ROJO,OTRA,VENTO,PISTA,JESÚS DEL MONTE ,CASTORENA ,CERRADA LÓPEZ MATEOS ,CUAJIMALPA ,Cuajimalpa de Morelos,,NA,NA
+id-4225919406,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,2L6WR,ROJO,OTRA,ITALIKA,DESCONOCIDO,EJE 1 NORTE,ORIENTE 144,..,MOCTEZUM 2A. SECCION,Venustiano Carranza,,NA,NA
+id-4225915552,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TR3987691,AZUL,OTRA,ITALIKA,DESCONOCIDO,Eje 3,Recreo ,Los reyes,BARRIO LOS ANGELES,Iztacalco,,NA,NA
+id-4225914791,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7F5KM,AZUL,OTRA,VENTO BKM,TRABAJO,Río Churubusco ,estenografos ,fiscales,EL SIFON,Iztapalapa,,NA,NA
+id-4225916993,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,G63UN,NEGRO/ROJO,HONDA,HONDA,TRABAJO,CENTENARIO ,PAPANOA ,TEMIZ ,BOSQUES DE TARANGO,Álvaro Obregón,,NA,NA
+id-4225917228,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,3H4GH,ANARANJADO,OTRA,ITALIKA,DESCONOCIDO,Tizimin ,Izamal ,Yucaltepen ,PEDREGAL DE SAN NICOLÁS,Tlalpan,,NA,NA
+id-4225916887,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,G61XS,BLANCO,OTRA,YAMAHA,DESCONOCIDO,LORETO FABELA ,Av. 508,Av. 510,2DA SECC SN J DE ARAGON,Gustavo A. Madero,,NA,NA
+id-4225920099,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7915C5,AZUL,OTRA,ITALIKA,DESCONOCIDO,eje 4,vizcainas,plaza mayor,ALFONSO  ORTIZ TIRADO,Iztapalapa,,NA,NA
+id-4225914418,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AN3976413,GRIS,OTRA,ITALIKA,DESCONOCIDO,la viga,Rodolfo usigli,Atancio g. zaravia,HEROES CHURUBUSCO,Iztapalapa,,NA,NA
+id-4225920747,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3990104,ANARANJADO,OTRA,KTM,PISTA,Emiliano Zapata,circunvalacion,rosario,ZONA CENTRO,Venustiano Carranza,,NA,NA
+id-4225918386,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3990103,AZUL,OTRA,ITALIKA,DESCONOCIDO,Berriozábal ,Nicolas Bravo Vidal Alcocer,Vidal Alcocer,ZONA CENTRO,Venustiano Carranza,,NA,NA
+id-4225915101,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LN3942581,NEGRO,OTRA,VENTO,PHANTOM,canal nacional ,santa Ana ,eje 3, CULHUACAN CTM,Coyoacán,,NA,NA
+id-4225913848,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,XO3970439,BLANCO,HONDA,HONDA,DESCONOCIDO,camino a nativitas ,zacapa,calle del mercado,BARRIO XALTOCAN,Xochimilco,,NA,NA
+id-4225916290,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980499,AZUL,OTRA,ITALIKA,SinValor,eje 6,Plutarco ,Plutarco ,NATIVITAS ,Benito Juárez,,NA,NA
+id-4225917860,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,1L3ED,AZUL,OTRA,ITALIKA,SinValor,Isabel la católica ,cadiz,cadiz,ALAMOS,Benito Juárez,,NA,NA
+id-4225919970,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,7D3ET,NEGRO,OTRA,DINAMO,PISTA,boulevard nuevo leon,Campeche ,cerrada de boulevard ,BARR SANTA CRUZ,Milpa Alta,,NA,NA
+id-4225915309,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,94KFT4,ROSA,HONDA,HONDA,DESCONOCIDO,ferrocarril de cintura ,mecanicos ,xx, MORELOS,Venustiano Carranza,,NA,NA
+id-4225917037,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980504,ROSA,OTRA,VENTO,SinValor,eje central ,correspondencia ,correspondencia ,POSTAL,Benito Juárez,,NA,NA
+id-4225915910,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980497,AZUL,OTRA,ITALIKA,SinValor,San Francisco ,eje 5,eje 5,COL DEL VALLE,Benito Juárez,,NA,NA
+id-4225917730,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984436,NEGRO/ROJO,OTRA,ITALIKA,DESCONOCIDO,Tlalpan ,circuito Estadio Azteca ,Acoxpa,EJIDO VIEJO DE SANTA URSULA,Coyoacán,,NA,NA
+id-4225921386,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,170XKH,CREMA,CHRYSLER,JEEP,DESCONOCIDO,Diagonal San Antonio,albein,mitla,NARVARTE ORIENTE,Benito Juárez,,NA,NA
+id-4225915859,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,PI3981339,NEGRO/ROJO,OTRA,BAJAJ,TRABAJO,canal de chalco,la gosta,..,COL. DEL MAR,Tláhuac,,NA,NA
+id-4225916559,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,PZJ711D,BLANCO,GMC,GMC,YUKON DENALI 1500 AWD,Avenida Tamaulipas,prolongación paseo de la reforma ,avenida santa fe ,CONTADERO,Cuajimalpa de Morelos,,NA,NA
+id-4225917587,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,LV3980505,BLANCO,HONDA,HONDA,FIT EV,bulgaria ,Miguel Lauren,Miguel lauren,LETRA VALLE,Benito Juárez,,NA,NA
+id-4225916214,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,AG3986718,NEGRO/ROJO,OTRA,VENTO,DESCONOCIDO,Av. Revolucion,Río magdalena,--,TIZAPAN SAN  ANGEL,Álvaro Obregón,,NA,NA
+id-4225918652,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CE3989640,GRIS,OTRA,YAMAHA,DESCONOCIDO,eje central ,Victoria ,articulo 123,CENTRO,Cuauhtémoc,,NA,NA
+id-4225917273,45046,2023,NA,Documentación incompleta,45,IV,-----,PRIMERO,5F7CH,NEGRO,OTRA,CARABELA,DESCONOCIDO,Eje 1,Santos Dumon ,Económia,AVIACIÓN CIVIL,Venustiano Carranza,,NA,NA
+id-4225918546,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984441,AZUL,OTRA,ITALIKA,DESCONOCIDO,Canacuate ,mayas,xx,PEDREGAL DE SANTO  DOMINGO,Coyoacán,,NA,NA
+id-4225916030,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,FL3979482,NEGRO,OTRA,ITALIKA,DESCONOCIDO,Paraíso ,Av Ermita Iztapalapa ,xx,XALPA,Iztapalapa,,NA,NA
+id-4225915972,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,FL3979480,GRIS,OTRA,ITALIKA,DESCONOCIDO,Av de las Torres ,Av Ermita Iztapalapa ,xx,AMPL. SANTIAGO ACAHUALTEPEC ,Iztapalapa,,NA,NA
+id-4225921508,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CE3989645,GRIS,OTRA,ITALIKA,DESCONOCIDO,eje central ,Victoria ,articulo 123,CENTRO ,Cuauhtémoc,,NA,NA
+id-4225915927,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,PI3981340,BLANCO,OTRA,ITALIKA,TRABAJO,av.tlahuac,venados,cisnes,LOS OLIVOS,Tláhuac,,NA,NA
+id-4225916429,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,VE3982598,ROJO,OTRA,ITALIKA,DESCONOCIDO,taller,Galindo y villa,Genaro García,JARDÍN BALBUENA,Venustiano Carranza,,NA,NA
+id-4225917495,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,CO3984437,GRIS,OTRA,VENTO,DESCONOCIDO,Tlalpan ,circuito Estadio Azteca ,ACOXPA ,EJIDO VIEJO  DE SANTA URSULA COAPA,Coyoacán,,NA,NA
+id-4225919369,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,TL3964965,AZUL,OTRA,KURAZAI,TRABAJO,avenida Tláhuac ,San Rafael Atlixco ,ejido ,SAN FRANCISCO TLALTENCO PUEBLO,Tláhuac,,NA,NA
+id-4225914838,45046,2023,NA,Documentación incompleta,45,I,A,PRIMERO,ZA3988812,NEGRO,HONDA,HONDA,DESCONOCIDO,av 608,calle 699,calle 661,VILLAS DE ARAGON,Gustavo A. Madero,,NA,NA
